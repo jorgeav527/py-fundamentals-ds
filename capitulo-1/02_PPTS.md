@@ -1,7 +1,8 @@
 # OBJETIVOS
 - Bienvenidos a nuestra primera clase. Hoy vamos a sumergirnos en el emocionante mundo de Python. 
 - Vamos a aprender lo esencial sobre Python y por qué es una herramienta crucial en el campo de la ciencia de datos y más allá.
-- Primero, exploraremos qué es Python y un poco de su historia para entender por qué es tan relevante hoy en día. - Luego, hablaremos sobre las diversas aplicaciones de Python, desde el análisis de datos hasta el desarrollo web y la automatización de procesos. 
+- Primero, exploraremos qué es Python y un poco de su historia para entender por qué es tan relevante hoy en día. 
+- Luego, hablaremos sobre las diversas aplicaciones de Python, desde el análisis de datos hasta el desarrollo web y la automatización de procesos. 
 - Además, introduciremos los conceptos básicos como la sintaxis de Python, tipos de variables, estructuras de datos, operadores, entre muchas otras cosas más.
 - Segundo, entenderemos qué es exactamente Jupyter Notebook y por qué es tan popular en el mundo de la ciencia de datos. 
 - Luego, veremos cómo instalar Jupyter Notebook en sus propias máquinas virtuales para que puedan usarlo en su trabajo. Vamos a aprender a crear un nuevo cuaderno de Jupyter el cual es llamado notebook y cómo ejecutar código Python en sus celdas. 

@@ -20,4 +20,9 @@ ELLOS
 - Y tambieén lo que tienen en mente con este curso ¿tienen alguna idea de startup o algún proyecto personal? ¿O quizás una página web que les gustaría llevar a internet?, ¿O algun tipo de projecto en ML o AI? ¡Estamos aquí para ayudar, y discutir cómo podría ser útil estas seciones con Python para hacer realidad esas ideas!
 - Por último, ¿qué esperan de este curso? ¿Qué les gustaría aprender o lograr? Sus respuestas nos ayudarán a adaptar el contenido para que sea lo más útil para ustedes.
 - No se preocupen por la formalidad, queremos que este sea un espacio relajado donde podamos interactuar de manera amigable. Así que adelante, compartan sus pensamientos, preguntas y proyectos conmigo."
-- Como saben la revisión del Contenido de las clases estaran disponibles para todos, "todas las clases sólo son grabadas por el docente".
+- Como saben la revisión del Contenido de las clases estaran disponibles para todos.
+- Nuestras normas ... "todas las clases sólo son grabadas por el docente".
+- Se grabaran las clases y se colgaran al final de la misma por si tienen algunas dudas y quieren revisar el contenido.
+- El equipo de trabajo es python-fundamentals-for-data-science se tiene todos los acesos ai, tanto a onedrive como azure labs.
+- En la sección general se publicará información importante relacionada al curso. Donde todos podran compartir su opinion o si tienen algún reclamo puntuarlo, todo bajo un estricto respeto ya que todos aqui estamos para compartir y aprender. Sin sarcasmos, sin prepotencias, desfachatadas. *una persona que actúa con desvergüenza, falta de respeto o descaro, sin mostrar vergüenza o remordimiento por sus acciones o palabras.*
+- En enlaces en la parte de publicaciones tenemos guias para conectarnos remotamente a una maquina virtual.
