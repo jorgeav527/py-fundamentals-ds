@@ -1,0 +1,25 @@
+[
+    {
+        "Nombre": "Juan",
+        "Edad": 30,
+        "Ciudad": "Barcelona",
+        "Trabaja": true
+    },
+    {
+        "Nombre": "Mar\u00eda",
+        "Edad": 25,
+        "Ciudad": "Madrid",
+        "Trabaja": false
+    },
+    {
+        "Nombre": "Carlos",
+        "Edad": 35,
+        "Ciudad": "Sevilla",
+        "Trabaja": true,
+        "Intereses": [
+            "Deporte",
+            "M\u00fasica",
+            "Viajes"
+        ]
+    }
+]
