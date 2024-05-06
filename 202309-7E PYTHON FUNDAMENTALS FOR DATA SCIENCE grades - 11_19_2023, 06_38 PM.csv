@@ -1,0 +1,146 @@
+﻿"First Name","Last Name","Email Address","Examen Final","Points","Feedback","Tarea-07","Points","Feedback","Tarea-06","Points","Feedback","Tarea-05","Points","Feedback","Tarea-04","Points","Feedback","Tarea-03","Points","Feedback","Tarea - 02","Points","Feedback","Tarea-01","Points","Feedback"
+"Cesar Miguel","Cubas Cabanillas","X202032208@cibertec.edu.pe","19","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-1","4.5","5","esta parte esta repetitiva, se podria automatizar, creo que sobrepensaste el ultimo problema, pero esta muy bien ","5","5","","5","5","","0","5","","5","5","Está en orden, sin embargo, continuemos siguiendo las convenciones de Python, utilizando snake_case en lugar de camelCase. es_nro_primo","1.5","2","Nice","1.5","2",""
+"Giancarlo Paul","Koo Farfan","X202037163@cibertec.edu.pe","18","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-0
+8-2
+9-2
+10-2","4.5","5","esta bien pero me hubiera gustado ver un data frame dia-columna, fila-semana","5","5","","5","5","","3.5","5","","5","5","","1.5","2","","1.5","2",""
+"Jorge","Campos Campos","x041638@cibertec.edu.pe","20","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-2","4.5","5","muy bien, tendriamos que mejorar ese grafico
+
+# ploteando resultados
+plt.plot(lances_moneda)","4","5","","3.5","5","","5","5","Perfecto ","5","5","Perfecto 👌 ","1.5","2","Nice","1.5","2",""
+"Jose Antonio","Espinoza Aldave","X008024197@cibertec.edu.pe","14","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-0
+8-0
+9-0
+10-2","5","5","hay que mejorar este grafico por el resto esta bién","3.5","5","","3.5","5","","3.5","5","","5","5","- solo un # para comentarios
+- cuidemos los espacios solo uno espacio
+- continuemos siguiendo las convenciones de Python, utilizando snake_case en lugar de camelCase
+","2","2","","2","2",""
+"Luis Anselmo","Alcala Rodriguez","X202062825@cibertec.edu.pe","18","20","1-0
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-2","5","5","Excelente Luis no sabia que se podia hacer videos con matplotlib. ","5","5","Perfecto Luis","5","5","","4","5","Creo que falta un problema?","4.5","5","Muy bien, falta un poco más de markdown, para una mejor documentación hay un pequeño error en el ejercicio 4","1.5","2","Nice","1.5","2",""
+"Maria Angela","Huisa Martinez","x218013@cibertec.edu.pe","20","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-2","5","5","muy bien ","5","5","","5","5","","5","5","perfecto","5","5","Perfecto ","1.5","2","","1.5","2",""
+"Martin Jose","Escobar Fernandez","X000001783@cibertec.edu.pe","13","20","1-0
+2-2
+3-2
+4-2
+5-2
+6-2
+7-0
+8-2
+9-1
+10-0","0","5","","0","5","","0","5","","5","5","get_ipython().system('pip install pandas') 
+interesante, muy bien
+intentemos usar el zen de python
+nro_lineas = 0
+palabras = 0
+my_archivo=open('dog_breeds.txt','r')","5","5","- solo un # para los comentarios
+- en el primer ejercicio en python también existe el tipado
+- continuemos siguiendo las convenciones de Python, utilizando snake_case en lugar de camelCase","1.5","2","","1.5","2",""
+"Milton David","Malca Capcha","X202062826@cibertec.edu.pe","20","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-2","5","5","muy bien","5","5","","5","5","","5","5","perfecto","5","5","- python también tiene tipado
+- continuemos siguiendo las convenciones de Python, utilizando snake_case en lugar de camelCase","2","2","Nice","1.5","2",""
+"Olga Dina","Suarez Avelino","X200212793@cibertec.edu.pe","16","20","1-2
+2-2
+3-2
+4-2
+5-0
+6-2
+7-2
+8-0
+9-2
+10-2","4","5","","5","5","","5","5","","5","5","perfecto","5","5","Esta perfecto ","2","2","Perfecto","1.5","2",""
+"Rene Antoine","Carrion Galiano","X202072048@cibertec.edu.pe","12","20","1-2
+2-2
+3-2
+4-2
+5-0
+#P5_SOL
+prop = float((data['native-country'] == 'Cuba').sum()) / data.shape[0]
+print(prop)
+6-0
+#P6_SOL
+ages1 = data.loc[data['salary'] == '>50K', 'age']
+ages2 = data.loc[data['salary'] == '<=50K', 'age']
+print(""Promedio de pobres: {}"".format(ages2.mean()))
+print(""Promedio de ricos: {}"".format(ages1.mean()))
+7-2
+8-0
+for (country, salary), sub_df in data.groupby(['native-country', 'salary']):
+    print(country, salary, round(sub_df['hours-per-week'].mean(), 2))
+9-2
+10-0","0","5","","2.5","5","","5","5","","0","5","","4.5","5","Esta muy bien pero quizas no sea una buena opcion pegar todo en un .py file","2","2","","1.5","2",""
+"RHOLF ALONSO","JARA QUINTANA","X202329597@cibertec.edu.pe","16","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-1
+8-0
+9-2
+10-1","4.5","5","esta bien pero me hubiera gustado ver como un dataframe  dia-columna fila-semana","5","5","","5","5","","5","5","Perfecto","4.5","5","","1.5","2","","1.5","2","It's OK but out of time"
+"usrcapacitacionel","","capacitacion.elearning@cibertec.edu.pe","","20","","","5","","","5","","","5","","","5","","","5","","","2","","1.5","2",""
+"Victor Alfredo","Alzamora Medina","x113181@cibertec.edu.pe","20","20","1-2
+2-2
+3-2
+4-2
+5-2
+6-2
+7-2
+8-2
+9-2
+10-2","5","5","Preciso y claro, super python.","0","5","","5","5","","5","5","Perfecto","5","5","Muy muy bueno tanto del lado del código como del lado de la documentación ","2","2","Perfecto!!!","2","2","Perfecto"
