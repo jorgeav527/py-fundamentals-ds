@@ -1,11 +1,11 @@
-Pug
-Jack Russell Terrier
-English Springer Spaniel
-German Shepherd
-Staffordshire Bull Terrier
-Cavalier King Charles Spaniel
-Golden Retriever
-West Highland White Terrier
-Boxer
-Border Terrier
-Beagle
+PUG
+JACK RUSSELL TERRIER
+ENGLISH SPRINGER SPANIEL
+GERMAN SHEPHERD
+STAFFORDSHIRE BULL TERRIER
+CAVALIER KING CHARLES SPANIEL
+GOLDEN RETRIEVER
+WEST HIGHLAND WHITE TERRIER
+BOXER
+BORDER TERRIER
+BEAGLE
