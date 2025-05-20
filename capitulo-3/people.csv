@@ -1,0 +1,1001 @@
+nombre,dni,genero,pelicula,formato,precio,fecha_visita
+Catherine Pollard,14034671,F,5. Schindler's List,Normal,7.06,2023-06-24
+Charles Greene,56365000,M,"6. The Good, the Bad and the Ugly",Normal,7.13,2018-10-08
+Maria Santiago,74164009,F,16. Star Wars: Episode IV - A New Hope,3D,13.22,2017-06-15
+Brittney Jones,72499930,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.28,2021-11-04
+Gary West,81846372,M,9. The Dark Knight,3D,13.71,2020-11-27
+Tina Hayes,89549197,F,15. Metropolis,Normal,7.17,2023-06-16
+Courtney Chan,52638642,F,10. The Godfather Part II,3D,12.57,2018-12-06
+Patricia Martinez,29244136,F,14. 2001: A Space Odyssey,Normal,6.99,2023-07-31
+Debra Graves,98010328,F,15. Metropolis,3D,10.52,2018-08-27
+Dana Jackson,74992676,F,21. Casablanca,Normal,8.56,2024-05-07
+Gordon Jackson,89875385,M,12. Fight Club,Normal,8.62,2018-01-07
+Lauren Gonzales,30833209,F,22. The Wizard of Oz,Normal,8.17,2020-02-05
+Gerald Palmer,27649782,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.7,2021-02-16
+Kim Sherman MD,90378298,F,9. The Dark Knight,Normal,7.85,2018-10-08
+Matthew Hawkins,39837903,M,9. The Dark Knight,Normal,7.75,2024-06-08
+Jennifer Lutz,79265598,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.0,2018-02-27
+Michael Fleming,76475647,M,22. The Wizard of Oz,Normal,6.31,2019-07-29
+Jeffrey Lowe,76082749,M,11. Pulp Fiction,3D,12.6,2019-01-31
+Heather Wells,10977340,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.33,2019-07-30
+Haley Gomez,11581719,F,21. Casablanca,3D,13.35,2025-04-26
+Douglas Moore,51089329,M,11. Pulp Fiction,3D,11.61,2022-03-05
+Holly Bryan,98964315,F,13. Psycho,Normal,6.33,2018-11-20
+Andrea Manning,63612980,F,3. Citizen Kane,Normal,8.42,2019-12-12
+Steven Stone,90825320,M,12. Fight Club,3D,13.94,2020-07-06
+Anthony Mendoza,69729297,M,14. 2001: A Space Odyssey,Normal,6.18,2018-10-30
+Jason Maldonado,19438428,M,1. The Shawshank Redemption,Normal,7.56,2024-06-17
+Kathy Rodriguez,96521783,F,"6. The Good, the Bad and the Ugly",Normal,8.16,2019-06-11
+Eric Sosa,22886380,M,15. Metropolis,Normal,6.0,2015-09-30
+Jordan Johnston,66438384,M,"6. The Good, the Bad and the Ugly",Normal,7.76,2025-03-14
+Amber Pearson,79692384,F,24. Forrest Gump,3D,12.37,2025-02-07
+Scott Anderson,68307688,M,11. Pulp Fiction,3D,12.45,2020-08-12
+Nicholas Atkinson,12410905,M,20. Raiders of the Lost Ark,3D,10.64,2017-01-02
+Melissa Lambert,91826640,F,10. The Godfather Part II,3D,10.61,2023-02-14
+Dr. Michael Combs,39504464,M,20. Raiders of the Lost Ark,Normal,7.57,2021-07-06
+Lisa Shaffer,13283719,F,"6. The Good, the Bad and the Ugly",Normal,6.64,2016-07-12
+Richard Stewart,35180016,M,11. Pulp Fiction,Normal,8.15,2023-02-17
+Meredith Parker,13372986,F,8. The Lord of the Rings: The Return of the King,3D,13.54,2016-04-14
+Peter Werner,49352998,M,2. The Godfather,3D,13.59,2018-09-08
+Amanda Palmer,59860400,F,2. The Godfather,3D,11.73,2015-08-13
+Isaac Torres,95744604,M,11. Pulp Fiction,3D,12.46,2018-04-25
+Travis Rubio,64650948,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.93,2021-09-12
+Drew Roberson,75854388,M,8. The Lord of the Rings: The Return of the King,3D,12.57,2024-06-03
+Savannah Gomez,68343646,F,10. The Godfather Part II,Normal,7.77,2019-01-23
+James Shea,53707531,M,12. Fight Club,3D,10.95,2021-03-08
+John Brown,21250180,M,14. 2001: A Space Odyssey,Normal,8.02,2016-08-31
+Corey Wade,81447810,M,11. Pulp Fiction,Normal,8.23,2020-06-09
+Lauren Barajas,90810199,F,12. Fight Club,Normal,8.25,2022-11-16
+Rebecca Bautista,65349553,F,20. Raiders of the Lost Ark,3D,11.42,2015-07-27
+Angela Edwards,34550903,F,3. Citizen Kane,Normal,7.77,2019-02-09
+Jacob Harris,22968535,M,19. The Matrix,Normal,6.2,2016-01-09
+Michael Jones,70663440,M,13. Psycho,Normal,6.91,2017-01-25
+Andrew Gregory,71286869,M,10. The Godfather Part II,3D,13.98,2022-08-22
+Andrew Rodriguez,17095389,M,11. Pulp Fiction,3D,11.2,2019-12-05
+Michelle Taylor,21933749,F,25. Inception,3D,12.18,2021-11-21
+Natalie Miller,77038963,F,2. The Godfather,Normal,6.38,2018-09-09
+Anthony Barnes,52810382,M,"6. The Good, the Bad and the Ugly",Normal,6.72,2020-06-13
+Steven Preston,70191912,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.21,2016-07-28
+Melissa Frederick,16966869,F,18. Terminator 2: Judgment Day,Normal,6.87,2020-10-03
+Sarah Vazquez,95199086,F,25. Inception,3D,12.57,2018-06-14
+William Jones,52150911,M,19. The Matrix,3D,12.51,2018-02-14
+Emily Anderson,82178826,F,22. The Wizard of Oz,Normal,6.24,2023-12-07
+Barry May,91743814,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,12.99,2021-04-01
+Ethan Taylor,42979958,M,3. Citizen Kane,Normal,8.42,2024-12-28
+Duane Charles,51766843,M,5. Schindler's List,Normal,6.67,2020-03-12
+John Gibson,77139303,M,4. 12 Angry Men,3D,12.54,2020-02-26
+Thomas Silva,66366802,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,12.41,2024-04-06
+Heather Perkins,31639431,F,22. The Wizard of Oz,3D,13.57,2018-05-07
+Ricky Chandler,29462000,M,24. Forrest Gump,Normal,6.22,2023-11-09
+Michael Smith,10520946,M,1. The Shawshank Redemption,Normal,8.4,2023-04-14
+Jennifer Franklin,54296125,F,19. The Matrix,Normal,8.77,2020-06-16
+Brian Waller,54671201,M,13. Psycho,Normal,8.31,2018-08-13
+Stanley Smith,68819804,M,1. The Shawshank Redemption,Normal,7.49,2015-10-14
+Rebecca Hunt,80828580,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,12.88,2019-02-08
+Justin Kemp,26785973,M,1. The Shawshank Redemption,Normal,8.83,2023-08-05
+Catherine Anderson,27825623,F,20. Raiders of the Lost Ark,Normal,7.8,2018-07-04
+Ashley Hayes,20611847,F,4. 12 Angry Men,3D,13.2,2024-07-25
+Chris Boyle,61029148,M,25. Inception,Normal,6.17,2024-06-11
+Mark Collier,58556137,M,23. Seven Samurai,Normal,6.8,2015-06-04
+Robin Robertson MD,77997767,F,15. Metropolis,3D,10.98,2023-04-24
+Ashley Smith,65195694,F,25. Inception,3D,12.5,2019-10-21
+Lisa Costa MD,76601139,F,"6. The Good, the Bad and the Ugly",Normal,6.78,2021-07-01
+Megan Love,84531076,F,2. The Godfather,3D,13.71,2017-02-02
+Angela Shea,71330962,F,16. Star Wars: Episode IV - A New Hope,Normal,6.4,2016-12-04
+Mikayla Williams,52398344,F,11. Pulp Fiction,3D,13.57,2019-07-01
+Linda Morris,17455573,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.85,2021-03-14
+Deborah Lee,78702337,F,14. 2001: A Space Odyssey,3D,13.67,2020-04-14
+Christian Simmons,37284031,M,21. Casablanca,Normal,6.27,2015-07-16
+Dr. Jeanne Bryant MD,37249807,F,10. The Godfather Part II,3D,10.66,2016-12-22
+Kevin Williams,52513725,M,5. Schindler's List,Normal,8.57,2024-04-09
+Brenda Hansen,96117580,F,12. Fight Club,3D,13.83,2016-11-12
+Joshua Schultz,13868479,M,8. The Lord of the Rings: The Return of the King,3D,13.81,2023-10-07
+Edward Leach,83220985,M,19. The Matrix,3D,12.74,2016-10-16
+Abigail Lee,95042487,F,11. Pulp Fiction,Normal,7.05,2023-07-17
+Benjamin Pope,93499566,M,15. Metropolis,3D,10.95,2021-06-15
+Carol Reyes,96400974,F,12. Fight Club,Normal,6.59,2022-09-21
+Steven Miller,64136250,M,20. Raiders of the Lost Ark,3D,12.19,2024-02-25
+Mark Bruce,84658524,M,3. Citizen Kane,Normal,7.04,2025-01-18
+Jerry Smith,49563556,M,14. 2001: A Space Odyssey,Normal,6.85,2023-07-29
+Madison Long,79409850,F,18. Terminator 2: Judgment Day,3D,13.92,2016-08-18
+Michael Alvarado,47111830,M,25. Inception,3D,13.35,2022-01-22
+Denise Mcgee,28584094,F,20. Raiders of the Lost Ark,3D,11.29,2023-12-10
+Christina Smith,90779396,F,19. The Matrix,3D,13.8,2025-02-14
+Tyler David,45012482,M,23. Seven Samurai,Normal,8.59,2017-04-22
+Cynthia Chaney,90479935,F,5. Schindler's List,Normal,7.48,2021-01-28
+Dr. Brandon Smith,78548501,M,21. Casablanca,Normal,6.38,2021-07-07
+Alexa Simon,67774003,F,5. Schindler's List,3D,10.11,2017-01-17
+Michael Lewis,52054067,M,16. Star Wars: Episode IV - A New Hope,Normal,6.35,2024-08-07
+Sarah Martin,18094198,F,13. Psycho,Normal,7.44,2024-09-01
+Thomas Schultz,46701072,M,20. Raiders of the Lost Ark,3D,13.43,2015-10-08
+Justin Martinez,99905822,M,17. The Lord of the Rings: The Fellowship of the Ring,Normal,8.35,2023-07-17
+Thomas Spencer,10232520,M,4. 12 Angry Men,Normal,8.03,2017-12-16
+Daniel Bray,65111921,M,12. Fight Club,Normal,6.68,2019-11-25
+Kristin Reid,63446661,F,13. Psycho,3D,11.66,2019-06-18
+Brandon Ruiz,42274414,M,12. Fight Club,3D,13.02,2021-06-07
+Alexis Dennis,21520401,F,13. Psycho,Normal,6.87,2023-03-31
+Kristin Nelson,74210511,F,20. Raiders of the Lost Ark,3D,11.72,2017-10-08
+Kayla Gardner,37168517,F,"6. The Good, the Bad and the Ugly",Normal,6.08,2021-11-22
+Travis Brooks,35243036,M,10. The Godfather Part II,3D,13.54,2018-11-03
+Sara Ford,23646395,F,4. 12 Angry Men,Normal,8.89,2018-01-28
+Rachel Espinoza,31232002,F,10. The Godfather Part II,Normal,6.98,2022-11-10
+Rebecca Saunders,86727608,F,18. Terminator 2: Judgment Day,Normal,8.6,2016-11-23
+Anthony Costa,52758226,M,3. Citizen Kane,3D,10.6,2017-08-10
+Jennifer Evans,35429157,F,2. The Godfather,Normal,8.81,2024-11-22
+Diana Brown,26906180,F,19. The Matrix,3D,10.87,2024-09-07
+Jill Powell,14726219,F,22. The Wizard of Oz,3D,10.36,2022-02-10
+Mrs. Alyssa Morgan MD,46549648,F,13. Psycho,3D,11.14,2018-02-03
+Lisa Frederick,25884029,F,24. Forrest Gump,3D,12.94,2021-06-15
+Ashley Hopkins,52766725,F,25. Inception,3D,12.61,2018-11-20
+Sheila Nichols,32773064,F,13. Psycho,3D,10.52,2022-11-16
+Ricardo Johnson,81110781,M,4. 12 Angry Men,3D,13.72,2024-08-23
+Tyler Nelson,57127985,M,20. Raiders of the Lost Ark,3D,13.69,2019-02-17
+Steven Smith,89728560,M,14. 2001: A Space Odyssey,3D,10.13,2018-10-03
+Shirley Simon,92393240,F,12. Fight Club,3D,12.01,2021-04-30
+Sandra Brown,46044033,F,24. Forrest Gump,Normal,7.25,2021-03-11
+Scott Lopez,48511043,M,12. Fight Club,3D,12.44,2016-10-10
+Victor Wood,66741308,M,18. Terminator 2: Judgment Day,Normal,7.58,2022-07-31
+Christian Morales,52181951,M,"6. The Good, the Bad and the Ugly",Normal,6.1,2021-04-25
+Lisa Fletcher,77151732,F,24. Forrest Gump,Normal,7.37,2022-12-12
+Kaitlyn Williams,29259816,F,9. The Dark Knight,3D,13.14,2019-05-25
+Robert Stone,50762923,M,8. The Lord of the Rings: The Return of the King,Normal,8.1,2017-08-18
+Kelsey Moore,59304826,F,21. Casablanca,3D,10.67,2023-06-21
+Joyce Vasquez,41146100,F,16. Star Wars: Episode IV - A New Hope,3D,10.02,2021-01-06
+Mr. Daniel Kelly,70470210,M,24. Forrest Gump,Normal,6.51,2021-07-10
+Dr. Daniel Hoffman,14931211,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.11,2015-12-28
+Laura Smith,76524992,F,25. Inception,Normal,6.5,2015-07-05
+Marie Page,89495637,F,23. Seven Samurai,Normal,7.32,2018-06-09
+Dana Koch,11169659,F,15. Metropolis,Normal,6.44,2021-05-19
+Brendan Watson,49972674,M,24. Forrest Gump,Normal,6.34,2023-05-18
+Mr. Eric Smith,13543392,M,1. The Shawshank Redemption,Normal,7.54,2023-05-05
+Claudia Jensen,46401966,F,4. 12 Angry Men,3D,10.99,2017-09-15
+Timothy Hutchinson,88845361,M,25. Inception,Normal,8.96,2022-05-17
+Darren Lynch,91102794,M,14. 2001: A Space Odyssey,Normal,6.71,2024-05-26
+Kurt Jensen,81206155,M,22. The Wizard of Oz,Normal,7.0,2022-05-05
+Thomas Johnson,99659284,M,15. Metropolis,3D,10.08,2018-10-10
+Anne Russell,29535292,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.22,2019-09-27
+Alexandra Fleming,51975887,F,23. Seven Samurai,Normal,7.33,2020-01-08
+Tracy Barnes,77795032,F,"6. The Good, the Bad and the Ugly",3D,13.09,2017-06-26
+George Hernandez,79428890,M,5. Schindler's List,3D,11.51,2016-03-27
+Denise Carpenter,14985320,F,19. The Matrix,Normal,8.22,2016-12-28
+Calvin Dominguez,90051677,M,13. Psycho,3D,11.81,2025-01-14
+Colin Cannon,58007115,M,19. The Matrix,Normal,6.33,2022-09-28
+Michael Moore,33222913,M,23. Seven Samurai,Normal,6.07,2022-07-30
+Fernando Horton,46501054,M,5. Schindler's List,3D,12.06,2017-04-24
+Margaret Alvarado,70175177,F,21. Casablanca,3D,13.57,2019-07-09
+Marcus Griffin,49514003,M,21. Casablanca,Normal,7.37,2022-04-27
+Joseph Nielsen,70494172,M,15. Metropolis,Normal,7.95,2016-12-08
+Jason Johnston,59299120,M,20. Raiders of the Lost Ark,3D,13.81,2024-10-27
+Stephen Johnson,19990793,M,12. Fight Club,Normal,6.24,2023-06-06
+Rebecca Thomas,63285618,F,8. The Lord of the Rings: The Return of the King,3D,13.67,2021-05-19
+Ronald Cooper MD,54770919,M,5. Schindler's List,3D,10.16,2020-02-24
+Hannah Serrano,92403863,F,13. Psycho,Normal,6.36,2024-06-13
+Garrett Griffith,51685068,M,20. Raiders of the Lost Ark,Normal,6.21,2020-09-02
+John Wright,97065783,M,21. Casablanca,Normal,6.71,2025-04-20
+Michele Green,97917953,F,20. Raiders of the Lost Ark,Normal,6.27,2019-09-22
+Tyler Ritter,26908388,M,5. Schindler's List,3D,11.96,2020-07-05
+Teresa Dudley,11225073,F,22. The Wizard of Oz,3D,12.11,2018-02-19
+Brianna Reed,54423077,F,24. Forrest Gump,Normal,8.68,2015-06-01
+John Estrada,75362457,M,22. The Wizard of Oz,Normal,8.32,2022-02-02
+Jimmy Peck,90783657,M,24. Forrest Gump,3D,13.43,2016-02-05
+Sydney Lopez,27167276,F,10. The Godfather Part II,Normal,7.8,2016-07-08
+Carlos Ayers,94487807,M,3. Citizen Kane,3D,12.47,2021-02-21
+Lisa Castro,97316908,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,11.32,2016-01-06
+Brent Montes,61054915,M,"6. The Good, the Bad and the Ugly",Normal,8.99,2016-12-28
+Amanda Bonilla,72278166,F,22. The Wizard of Oz,3D,13.11,2019-11-04
+Dawn Vincent MD,17323116,F,18. Terminator 2: Judgment Day,3D,11.02,2025-03-12
+Isabella Torres,98037116,F,12. Fight Club,3D,10.84,2025-03-09
+Dr. Michael Stevenson,64312352,M,15. Metropolis,Normal,6.6,2025-01-19
+Benjamin Kane,22360934,M,4. 12 Angry Men,3D,13.37,2020-09-26
+James Brown,65935524,M,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.49,2024-07-30
+Carrie King,46242916,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,6.91,2022-05-02
+Theresa Vaughn,83767221,F,15. Metropolis,Normal,6.03,2022-12-01
+Thomas Johnson,92119910,M,9. The Dark Knight,Normal,7.45,2015-06-25
+Christopher Goodwin,64075340,M,14. 2001: A Space Odyssey,Normal,6.54,2020-08-17
+Stephen Oconnor,85474082,M,1. The Shawshank Redemption,Normal,6.85,2016-07-08
+John Rose,19969009,M,22. The Wizard of Oz,3D,11.12,2022-07-22
+Angel Davis,73146592,M,15. Metropolis,Normal,7.44,2020-03-25
+Alexander Cole,24007530,M,21. Casablanca,Normal,7.94,2024-03-10
+Travis Smith,77573467,M,25. Inception,3D,13.21,2018-07-07
+Christopher Parks,40096720,M,20. Raiders of the Lost Ark,3D,11.91,2022-09-23
+Jamie Meyers,62842584,M,14. 2001: A Space Odyssey,3D,11.62,2025-03-07
+Wendy Huang,74584827,F,12. Fight Club,Normal,6.08,2017-11-22
+Carrie Hunt,89117389,F,20. Raiders of the Lost Ark,3D,10.51,2018-12-23
+Joseph Wright,35686666,M,18. Terminator 2: Judgment Day,3D,12.01,2024-10-24
+Joseph Gray,84753981,M,16. Star Wars: Episode IV - A New Hope,Normal,8.85,2016-02-19
+Makayla Riley,56590739,F,25. Inception,3D,11.44,2017-10-23
+Patricia Romero,67008783,F,13. Psycho,Normal,8.35,2015-11-15
+Michelle Anderson,21481300,F,3. Citizen Kane,Normal,8.54,2017-06-26
+Brandy Carlson,28428177,F,12. Fight Club,3D,11.95,2022-12-27
+Christopher Carroll,93092239,M,15. Metropolis,Normal,7.63,2018-06-05
+Mrs. Tonya Sullivan,80432556,F,1. The Shawshank Redemption,Normal,7.52,2021-07-07
+Sheila Alvarado,59254356,F,21. Casablanca,3D,11.09,2015-12-07
+Melanie Campbell,63533308,F,10. The Godfather Part II,3D,11.15,2016-08-12
+Michael Harrison,15143200,M,17. The Lord of the Rings: The Fellowship of the Ring,Normal,8.15,2024-12-23
+Christine Dougherty,48843803,F,19. The Matrix,3D,12.23,2019-03-08
+Catherine Gonzalez,95418726,F,1. The Shawshank Redemption,3D,12.91,2016-09-24
+Richard Snyder,16605889,M,4. 12 Angry Men,Normal,7.2,2017-09-05
+Rebecca Cooper,77686964,F,14. 2001: A Space Odyssey,Normal,7.34,2018-12-28
+Casey Porter,11695891,M,18. Terminator 2: Judgment Day,3D,10.04,2021-07-15
+Lisa Gray,68866047,F,24. Forrest Gump,Normal,6.99,2020-08-29
+Alvin Cortez,72917584,M,19. The Matrix,3D,12.98,2022-06-12
+Lisa Hall,27071764,F,4. 12 Angry Men,3D,12.68,2020-02-05
+Michael Torres,57520749,M,12. Fight Club,3D,11.74,2021-07-31
+Dana Thompson,52684130,F,17. The Lord of the Rings: The Fellowship of the Ring,Normal,8.62,2017-01-02
+Devin Castillo,59771272,M,11. Pulp Fiction,Normal,8.8,2015-08-10
+Stephen Chapman,94646385,M,9. The Dark Knight,3D,10.24,2017-11-25
+Jeremy Allen,69895807,M,14. 2001: A Space Odyssey,3D,11.97,2024-07-02
+Taylor Hall,32206861,F,20. Raiders of the Lost Ark,Normal,6.85,2023-06-28
+Sydney Blackwell,27478075,F,4. 12 Angry Men,Normal,6.87,2016-08-11
+Robert Villegas,42494419,M,18. Terminator 2: Judgment Day,3D,12.07,2023-11-13
+Stephanie Patel,33311019,F,22. The Wizard of Oz,3D,13.61,2022-12-16
+Kenneth Jones,48464444,M,16. Star Wars: Episode IV - A New Hope,Normal,6.98,2019-02-12
+Lisa Maddox,25912463,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,10.7,2016-12-12
+Kimberly Williams,42416077,F,2. The Godfather,Normal,6.33,2024-05-13
+Alec Nichols,73683273,M,25. Inception,Normal,6.77,2021-11-20
+Cheryl Miller,19201195,F,22. The Wizard of Oz,3D,10.03,2019-06-03
+Melanie Bell,38526154,F,5. Schindler's List,3D,10.34,2024-07-29
+Michael Taylor,90283499,M,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.31,2018-05-30
+Charles Cameron,19162423,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,11.7,2021-10-08
+Kyle Soto,65336432,M,5. Schindler's List,Normal,7.93,2019-09-18
+Christopher Guzman,60959735,M,21. Casablanca,3D,10.1,2016-01-10
+Carrie Stevens,30460231,F,2. The Godfather,3D,10.36,2018-06-02
+Julie Brown,84230879,F,5. Schindler's List,Normal,8.3,2020-06-06
+Sharon Love,52589130,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.61,2016-12-14
+Miguel Brown,57680018,M,14. 2001: A Space Odyssey,3D,10.47,2022-04-05
+Brittany Cabrera,75393503,F,12. Fight Club,3D,13.17,2024-07-04
+Justin Martin,77111742,M,18. Terminator 2: Judgment Day,Normal,6.67,2017-09-09
+Susan Hunter,89622892,F,24. Forrest Gump,Normal,7.69,2023-02-18
+Jill Johnson,18842635,F,14. 2001: A Space Odyssey,3D,10.0,2021-11-09
+Stephen Reynolds,21552406,M,12. Fight Club,3D,11.18,2024-06-06
+Miss Jessica Hunter,13536596,F,"6. The Good, the Bad and the Ugly",3D,11.02,2016-04-20
+Gregory Butler,98291508,M,20. Raiders of the Lost Ark,3D,12.63,2023-06-02
+Daniel Owens,16846447,M,25. Inception,3D,11.92,2016-06-15
+Calvin Berger,61368560,M,10. The Godfather Part II,Normal,8.54,2021-07-21
+Karen Esparza,59338112,F,3. Citizen Kane,3D,13.18,2020-05-24
+Darius Nguyen,22565783,M,23. Seven Samurai,3D,10.04,2022-03-07
+Dennis Chaney,47497991,M,24. Forrest Gump,Normal,8.58,2023-12-09
+Terry Brennan,49865846,F,2. The Godfather,3D,13.07,2017-04-30
+Adam Davenport,75448059,M,16. Star Wars: Episode IV - A New Hope,3D,10.43,2025-03-13
+Jennifer Cruz,98249510,F,9. The Dark Knight,Normal,7.58,2016-09-28
+Martha Tyler,13923487,F,11. Pulp Fiction,3D,11.91,2019-07-05
+Andrew Hanson,77052397,M,21. Casablanca,Normal,6.38,2024-05-16
+Jennifer Brown,23449983,F,16. Star Wars: Episode IV - A New Hope,Normal,7.82,2017-03-29
+Alex Palmer,68706910,M,12. Fight Club,Normal,8.92,2023-03-15
+Sherri Bates,43864307,F,2. The Godfather,3D,11.77,2018-09-30
+Dennis Warren,66468478,M,2. The Godfather,3D,12.91,2015-06-09
+John Smith,67691395,M,21. Casablanca,Normal,6.36,2022-09-22
+Megan Nicholson,54618310,F,16. Star Wars: Episode IV - A New Hope,3D,10.77,2017-08-06
+Jessica Blackburn,83590650,F,2. The Godfather,Normal,8.66,2023-10-20
+Theodore Curtis,28083333,M,"6. The Good, the Bad and the Ugly",3D,13.21,2023-05-29
+Jeremiah Nichols,20861566,M,14. 2001: A Space Odyssey,Normal,7.05,2021-04-16
+Emily Eaton,70874093,F,23. Seven Samurai,3D,11.38,2015-11-15
+Martin Richardson,57224040,M,3. Citizen Kane,3D,10.32,2019-08-28
+Jaclyn Gomez,58591083,F,18. Terminator 2: Judgment Day,3D,12.34,2024-04-11
+William Miller,11795389,M,1. The Shawshank Redemption,3D,13.28,2016-09-17
+Erik Briggs,28834718,M,5. Schindler's List,3D,10.9,2023-03-28
+Aaron Anderson,15793937,M,25. Inception,3D,13.75,2025-04-01
+Christopher Bauer,93028382,M,4. 12 Angry Men,3D,12.2,2024-07-04
+Jason Montes,95940880,M,11. Pulp Fiction,3D,13.87,2016-08-28
+Thomas Garcia,66947128,M,25. Inception,3D,13.14,2024-04-24
+David Robinson,54257535,M,16. Star Wars: Episode IV - A New Hope,Normal,8.53,2016-03-11
+Tom Schmidt,78077291,M,22. The Wizard of Oz,3D,13.68,2022-10-25
+Melissa Jensen,82968787,F,20. Raiders of the Lost Ark,Normal,7.04,2020-06-26
+Darlene Cruz,24560514,F,24. Forrest Gump,3D,11.46,2020-05-01
+Jennifer Moore,46701858,F,18. Terminator 2: Judgment Day,Normal,6.46,2017-08-11
+Aaron Lamb,16764763,M,12. Fight Club,3D,12.11,2017-12-19
+Julie Santana,12505463,F,2. The Godfather,Normal,8.09,2022-03-10
+Heather Carroll,48439315,F,1. The Shawshank Redemption,Normal,7.9,2020-09-02
+Stephanie Myers,29983400,F,14. 2001: A Space Odyssey,3D,12.67,2019-06-26
+Anita Reyes,75636739,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,8.98,2020-05-06
+Scott Anderson,51296917,M,5. Schindler's List,Normal,8.81,2016-12-31
+Jessica Hill,25888507,F,22. The Wizard of Oz,Normal,6.54,2017-08-02
+John Zamora,19745826,M,12. Fight Club,3D,11.27,2015-12-14
+Christopher Cruz,57198950,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,11.26,2023-08-14
+Michelle Gibson,12309070,F,18. Terminator 2: Judgment Day,Normal,6.65,2024-10-28
+Natasha Harris,96253379,F,13. Psycho,Normal,8.35,2015-11-14
+Ellen Salazar,97761337,F,20. Raiders of the Lost Ark,3D,10.75,2020-09-02
+Lisa Branch,99891407,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.1,2023-02-02
+John Steele,90011937,M,15. Metropolis,Normal,6.23,2019-04-21
+Benjamin Thompson,83917311,M,15. Metropolis,3D,10.42,2016-07-15
+David Flores,57690698,M,2. The Godfather,Normal,6.99,2022-10-13
+Laura Cook,65405991,F,2. The Godfather,3D,13.18,2023-05-10
+Leah Smith,80117992,F,13. Psycho,3D,10.93,2015-12-22
+Valerie Vazquez,12413152,F,25. Inception,3D,10.32,2024-01-15
+Matthew Knight,32063463,M,20. Raiders of the Lost Ark,Normal,7.41,2023-03-23
+Stephanie Smith,53027967,F,21. Casablanca,Normal,8.24,2016-03-05
+Sandra Collins,86606924,F,11. Pulp Fiction,Normal,8.72,2024-11-17
+John Boyd,87882409,M,"6. The Good, the Bad and the Ugly",Normal,8.34,2020-11-18
+Brandon Dougherty,54542544,M,14. 2001: A Space Odyssey,Normal,8.21,2025-01-23
+Abigail Weiss,15042209,F,20. Raiders of the Lost Ark,3D,12.63,2019-10-22
+Raymond Lee,93702592,M,14. 2001: A Space Odyssey,Normal,6.45,2018-01-04
+Brian Contreras,64932731,M,1. The Shawshank Redemption,3D,12.36,2019-04-07
+Adrian Ho,10758942,M,2. The Godfather,Normal,6.35,2015-09-06
+Bethany Jones,92533466,F,16. Star Wars: Episode IV - A New Hope,3D,12.16,2020-05-18
+Sean Oneill,16372839,M,8. The Lord of the Rings: The Return of the King,Normal,6.39,2020-03-05
+Elizabeth Fields,69424257,F,12. Fight Club,Normal,6.35,2016-08-23
+David Owens,20513936,M,18. Terminator 2: Judgment Day,3D,12.4,2017-08-02
+Katherine Jones,43010947,F,10. The Godfather Part II,Normal,7.15,2021-08-25
+Wendy Aguilar,48537109,F,15. Metropolis,3D,13.32,2023-08-02
+Amanda Freeman,32615383,F,12. Fight Club,3D,13.42,2023-12-18
+David Murphy,24871138,M,20. Raiders of the Lost Ark,Normal,6.2,2016-05-27
+Michelle Cobb,10043293,F,25. Inception,Normal,6.13,2017-01-10
+Ann Underwood,74476788,F,25. Inception,3D,10.88,2016-08-18
+Robert Melton,32603239,M,19. The Matrix,3D,13.36,2023-07-26
+Brad Paul,26993266,M,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.72,2022-11-28
+Zachary Davis,72337788,M,8. The Lord of the Rings: The Return of the King,3D,13.03,2017-11-24
+Caitlyn Curtis,20485937,F,12. Fight Club,Normal,8.19,2016-08-07
+Maria Welch,68621034,F,14. 2001: A Space Odyssey,Normal,6.02,2022-02-18
+Dr. Christopher Lewis,94201446,M,9. The Dark Knight,3D,11.33,2019-02-27
+Christopher Valencia,39922299,M,3. Citizen Kane,3D,10.44,2021-10-19
+Corey Oliver,68478483,M,19. The Matrix,3D,10.22,2020-03-06
+Robert Johnson,31636028,M,20. Raiders of the Lost Ark,3D,13.31,2016-03-14
+Tammy Davis,27340515,F,23. Seven Samurai,3D,13.57,2024-03-21
+Holly Brooks,58478242,F,22. The Wizard of Oz,3D,11.97,2023-12-07
+Judy Lewis,92182707,F,11. Pulp Fiction,3D,13.65,2023-12-12
+Elizabeth Fernandez,28812844,F,14. 2001: A Space Odyssey,Normal,8.3,2016-02-11
+James Leonard,58413877,M,18. Terminator 2: Judgment Day,3D,10.6,2023-06-26
+Joshua Lyons,23130700,M,9. The Dark Knight,Normal,6.39,2016-11-19
+Sarah Mendoza,93393715,F,4. 12 Angry Men,Normal,7.69,2018-09-13
+Sheena Moss,11987178,F,20. Raiders of the Lost Ark,3D,11.43,2024-07-14
+Timothy Wilson,99858245,M,"6. The Good, the Bad and the Ugly",3D,11.81,2023-12-26
+Joshua Young,29078386,M,14. 2001: A Space Odyssey,Normal,7.42,2022-03-19
+William Reed,57131057,M,25. Inception,Normal,8.8,2016-03-31
+Michael Smith,85181159,M,21. Casablanca,Normal,6.6,2023-09-08
+Joel Mack,65748861,M,5. Schindler's List,Normal,6.69,2016-10-04
+Jeremy Simmons,66711607,M,19. The Matrix,3D,11.27,2016-09-16
+Daniel Nicholson,18003291,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.4,2018-10-03
+Jonathan Bennett,69413855,M,14. 2001: A Space Odyssey,Normal,6.89,2023-06-06
+Matthew Miller,28980996,M,13. Psycho,3D,10.58,2015-06-04
+Michelle Salazar,83641888,F,22. The Wizard of Oz,3D,13.68,2025-05-19
+Andrew Sellers,70911653,M,8. The Lord of the Rings: The Return of the King,Normal,6.63,2022-01-03
+Edward Hogan,60805663,M,3. Citizen Kane,Normal,8.35,2022-06-22
+Sara Dean,58086382,F,2. The Godfather,3D,10.87,2015-11-22
+Pamela Cook,19325389,F,14. 2001: A Space Odyssey,Normal,7.02,2015-08-07
+Paul Daugherty,20202094,M,3. Citizen Kane,3D,13.31,2017-05-29
+Tammy Lee,19382773,F,11. Pulp Fiction,3D,10.7,2017-06-13
+Jessica Gamble,62397889,F,8. The Lord of the Rings: The Return of the King,Normal,7.58,2020-07-15
+Robert Chambers,51241499,M,18. Terminator 2: Judgment Day,Normal,6.5,2016-06-27
+Charles Powell,20684559,M,9. The Dark Knight,Normal,6.36,2016-05-09
+Sarah Miller,52804279,F,18. Terminator 2: Judgment Day,Normal,8.51,2016-10-22
+Deborah Hoover,22057640,F,13. Psycho,3D,12.07,2020-10-19
+James Jimenez,74487397,M,1. The Shawshank Redemption,3D,13.24,2025-01-09
+Brian Adams,70637866,M,14. 2001: A Space Odyssey,3D,11.52,2021-09-20
+Frances Dyer,63521848,F,9. The Dark Knight,Normal,6.79,2019-06-24
+John Rivas,53782956,M,5. Schindler's List,3D,11.23,2025-02-02
+Matthew Green,13621546,M,12. Fight Club,3D,10.73,2023-05-08
+Paul Miller,93778143,M,23. Seven Samurai,Normal,7.17,2015-10-08
+Jessica Anderson,19373636,F,23. Seven Samurai,3D,13.7,2022-08-12
+Trevor Everett,43584561,M,9. The Dark Knight,Normal,7.11,2020-03-22
+Kevin Osborne,87939295,M,24. Forrest Gump,Normal,8.33,2019-11-07
+Charles Ellis,40131235,M,1. The Shawshank Redemption,Normal,7.88,2023-04-10
+Adam Ryan,65439006,M,2. The Godfather,3D,13.93,2021-04-16
+Fred Mcknight,28264807,M,19. The Matrix,3D,10.13,2024-12-16
+Daniel Martinez,58586616,M,10. The Godfather Part II,Normal,6.61,2019-11-08
+Craig Reed,37191915,M,16. Star Wars: Episode IV - A New Hope,3D,10.41,2023-10-24
+Michael Johnson,90791283,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.91,2022-09-12
+Jessica Martinez,44865473,F,8. The Lord of the Rings: The Return of the King,Normal,8.66,2019-05-11
+Carl Kane,23244474,M,"6. The Good, the Bad and the Ugly",Normal,7.81,2021-01-04
+Mark Jones,69388511,M,21. Casablanca,3D,11.32,2019-09-06
+Stacy Sanchez,87972564,F,22. The Wizard of Oz,Normal,7.56,2024-11-10
+Kathleen Barrett,66906421,F,19. The Matrix,3D,11.68,2019-04-23
+Jason Rocha,17388411,M,21. Casablanca,3D,10.94,2024-08-31
+Samantha Reeves,64148625,F,21. Casablanca,3D,12.56,2023-10-31
+Charles Collins,12104519,M,15. Metropolis,Normal,6.69,2019-08-07
+Patty Martinez,82605355,F,22. The Wizard of Oz,Normal,8.1,2020-11-15
+John Marshall,65570168,M,9. The Dark Knight,Normal,7.96,2024-04-23
+April Kirk,66875396,F,11. Pulp Fiction,Normal,8.04,2018-07-13
+Lori Reid,15957744,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.05,2018-11-12
+Allen Jenkins,64350517,M,25. Inception,3D,10.87,2015-10-11
+Zachary Gonzalez,23156930,M,24. Forrest Gump,3D,13.14,2015-08-21
+Brian Casey,82921800,M,4. 12 Angry Men,Normal,6.69,2024-01-31
+Angela Flowers,73399647,F,12. Fight Club,Normal,7.89,2016-10-15
+Charles Smith,45345455,M,1. The Shawshank Redemption,Normal,6.05,2019-02-15
+Sabrina Henry,62121180,F,12. Fight Club,3D,11.0,2019-07-27
+Anthony Little,29742113,M,8. The Lord of the Rings: The Return of the King,Normal,7.86,2018-02-28
+Rose Bowman,95999319,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.58,2016-10-29
+Natalie Webb,63720253,F,24. Forrest Gump,3D,13.45,2020-09-03
+Jacqueline Barnett,33566453,F,21. Casablanca,Normal,8.27,2019-12-01
+Charles Roberts,27606442,M,19. The Matrix,3D,11.46,2015-08-30
+Kevin Allen,29713321,M,1. The Shawshank Redemption,3D,11.69,2017-05-27
+William Sullivan,61569231,M,"6. The Good, the Bad and the Ugly",3D,12.41,2023-08-29
+John Morris,62515298,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.33,2019-03-27
+Sandra Snyder,63872482,F,2. The Godfather,3D,13.8,2017-06-21
+Bobby Washington,53864744,M,11. Pulp Fiction,3D,10.03,2024-01-26
+Shawn Myers,83068393,M,21. Casablanca,3D,13.6,2021-01-20
+Justin Yang,47632268,M,16. Star Wars: Episode IV - A New Hope,Normal,6.28,2019-08-21
+Olivia Dominguez,77065577,F,13. Psycho,3D,12.21,2020-02-15
+Kevin Stokes,37004214,M,8. The Lord of the Rings: The Return of the King,Normal,8.99,2023-08-29
+Christopher Johnson,35284817,M,4. 12 Angry Men,3D,11.14,2018-05-28
+Michael Mccoy,44376550,M,5. Schindler's List,3D,11.16,2025-02-24
+David Munoz,17597525,M,5. Schindler's List,Normal,7.98,2023-07-28
+Shannon Allen,71571195,F,21. Casablanca,3D,12.89,2024-08-30
+Shawn Espinoza,23152728,M,"6. The Good, the Bad and the Ugly",3D,11.44,2022-10-01
+Kimberly Hanson,54448578,F,1. The Shawshank Redemption,Normal,6.55,2020-02-22
+Calvin Bonilla,11268214,M,24. Forrest Gump,3D,12.42,2017-03-26
+Nicholas Pittman,89126943,M,20. Raiders of the Lost Ark,3D,11.99,2023-04-12
+Mary Hernandez,75706119,F,8. The Lord of the Rings: The Return of the King,Normal,7.75,2020-08-25
+Tony Pena,21608716,M,8. The Lord of the Rings: The Return of the King,3D,12.61,2021-07-07
+Mallory Bauer,77611965,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,12.0,2025-04-15
+Crystal Anderson,46869426,F,15. Metropolis,3D,13.05,2021-04-21
+Wendy Adams,10978989,F,14. 2001: A Space Odyssey,Normal,8.45,2016-09-12
+Angela Hale,11678029,F,10. The Godfather Part II,3D,13.69,2016-12-14
+Cassandra Ramirez,95419338,F,4. 12 Angry Men,3D,10.41,2018-05-16
+Shannon Johnson,13898564,F,12. Fight Club,Normal,8.62,2016-08-19
+Tanya Taylor,40922380,F,11. Pulp Fiction,3D,11.57,2020-07-27
+Jeremy Santos,17627363,M,9. The Dark Knight,3D,11.07,2020-01-08
+Lisa Rivas,98680985,F,8. The Lord of the Rings: The Return of the King,3D,11.82,2020-01-24
+Maria Erickson,91661647,F,"6. The Good, the Bad and the Ugly",Normal,8.16,2020-11-18
+Tiffany Watson,23484408,F,25. Inception,Normal,6.44,2020-01-19
+Michael Smith,13091386,M,19. The Matrix,Normal,7.19,2024-02-21
+Valerie Shaffer,31024296,F,10. The Godfather Part II,Normal,8.19,2022-07-26
+Patricia Ramos,79189682,F,14. 2001: A Space Odyssey,3D,11.08,2019-06-25
+Chris Mclean,52108309,M,25. Inception,3D,11.19,2020-03-15
+Dustin Kelley,24401983,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.86,2016-08-11
+Sharon Lee,43397078,F,19. The Matrix,3D,13.79,2016-11-01
+Timothy Burns,85955909,M,25. Inception,3D,13.31,2022-02-09
+Courtney Allen,75861915,F,9. The Dark Knight,3D,11.23,2022-01-01
+Paula Vincent,71236116,F,18. Terminator 2: Judgment Day,3D,11.22,2021-09-28
+Logan Mcdonald,97865148,M,8. The Lord of the Rings: The Return of the King,3D,11.46,2021-02-10
+Donna King,59816858,F,9. The Dark Knight,3D,10.35,2018-03-03
+Jason Gregory,83457082,M,3. Citizen Kane,Normal,7.55,2023-09-25
+Tracy Stewart,25469197,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.56,2020-08-01
+Christie Glenn,66496797,F,22. The Wizard of Oz,3D,12.54,2017-08-14
+Jared Ray,50300845,M,12. Fight Club,Normal,7.21,2022-03-02
+Andrew Leonard,81863656,M,"6. The Good, the Bad and the Ugly",3D,11.67,2016-05-15
+Jessica Lucero,77228716,F,25. Inception,3D,10.23,2020-05-14
+Timothy Carlson,12442082,M,25. Inception,3D,12.86,2023-06-25
+Paul Davidson,87101367,M,21. Casablanca,3D,11.45,2019-02-06
+Grace Joseph,38039824,F,25. Inception,Normal,7.94,2022-11-11
+Grant Davis,43971619,M,13. Psycho,Normal,6.29,2022-01-20
+Mason Watson,36063637,M,8. The Lord of the Rings: The Return of the King,3D,13.26,2022-03-15
+Thomas Lopez,89564018,M,13. Psycho,3D,13.85,2018-04-02
+Kim Ortiz,75380575,F,11. Pulp Fiction,3D,12.91,2024-08-16
+Russell Black,72516808,M,9. The Dark Knight,3D,10.67,2023-10-27
+Carolyn Moore,45644170,F,4. 12 Angry Men,Normal,6.98,2021-10-10
+Jay Hunter,85524047,M,"6. The Good, the Bad and the Ugly",Normal,6.23,2016-03-13
+William Mitchell,50805451,M,25. Inception,3D,10.64,2015-10-26
+Lisa Gibson,83309846,F,13. Psycho,3D,12.35,2017-01-21
+Daniel Thompson,83851408,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.02,2016-07-01
+Henry Rodriguez,56527072,M,1. The Shawshank Redemption,Normal,7.94,2018-08-29
+Christopher Wall,45512905,M,"6. The Good, the Bad and the Ugly",3D,13.3,2019-06-15
+Andrea Jones,37736330,F,9. The Dark Knight,3D,11.89,2023-03-24
+Elizabeth Williams,20475009,F,4. 12 Angry Men,Normal,8.02,2018-05-25
+Timothy Aguirre DDS,32616544,M,9. The Dark Knight,3D,11.87,2023-06-01
+Jonathan Chambers,43215494,M,16. Star Wars: Episode IV - A New Hope,Normal,7.73,2017-02-10
+Bradley Olson,11146780,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.08,2024-01-19
+Brenda Bradshaw,23346912,F,21. Casablanca,Normal,6.96,2018-05-29
+Joshua Mays,99108136,M,11. Pulp Fiction,3D,13.94,2023-08-21
+Glenda Schmitt,54679558,F,19. The Matrix,3D,11.62,2016-02-01
+Juan Smith,96682723,M,19. The Matrix,Normal,7.06,2019-09-26
+Benjamin Stephens,72709379,M,24. Forrest Gump,Normal,7.19,2017-01-11
+Olivia Randall,68206476,F,12. Fight Club,Normal,7.19,2023-05-25
+Abigail Brown,86709490,F,22. The Wizard of Oz,3D,13.69,2016-02-10
+Keith Hernandez,59853824,M,8. The Lord of the Rings: The Return of the King,Normal,7.39,2024-02-16
+James Guerra,57597115,M,23. Seven Samurai,3D,10.22,2016-07-25
+Mitchell Ramirez,55153873,M,11. Pulp Fiction,Normal,8.0,2025-04-08
+Anita Chapman,85116713,F,"6. The Good, the Bad and the Ugly",3D,12.69,2023-12-30
+Mark Baker,50683796,M,21. Casablanca,3D,12.08,2018-07-20
+Adam Mitchell,23736596,M,9. The Dark Knight,3D,10.15,2021-01-01
+Tammy Rios,43277930,F,3. Citizen Kane,3D,10.55,2021-08-11
+Joseph Holland,71342674,M,"6. The Good, the Bad and the Ugly",3D,11.44,2018-09-03
+Michael Carter,98548591,M,8. The Lord of the Rings: The Return of the King,Normal,7.87,2023-04-19
+Michaela Wagner,28646813,F,1. The Shawshank Redemption,Normal,6.23,2020-04-06
+Tina Patterson,82909845,F,19. The Matrix,Normal,6.29,2020-10-06
+Linda Johnston,42565524,F,11. Pulp Fiction,3D,13.39,2018-11-25
+Trevor White,86532358,M,21. Casablanca,3D,12.25,2020-06-21
+Christy Newman,73151723,F,24. Forrest Gump,3D,11.74,2015-12-31
+Jose Perez,62383660,M,3. Citizen Kane,Normal,6.79,2019-06-19
+Stephanie Bailey,62183616,F,23. Seven Samurai,3D,11.44,2019-04-23
+Rachel Hartman,85202645,F,14. 2001: A Space Odyssey,3D,12.51,2019-09-29
+Cassandra Haas,65169448,F,"6. The Good, the Bad and the Ugly",Normal,6.95,2020-05-01
+Lindsey Key,33410571,F,13. Psycho,Normal,7.63,2020-06-28
+Kelly Gutierrez,85717200,F,4. 12 Angry Men,Normal,6.71,2017-12-10
+Kathy Lucas,71567369,F,1. The Shawshank Redemption,3D,11.65,2023-07-31
+Jill Henry,81901076,F,10. The Godfather Part II,Normal,8.68,2024-08-13
+Nicholas Rodriguez,80303005,M,12. Fight Club,Normal,6.78,2017-06-24
+Alexander Burke,15035676,M,11. Pulp Fiction,3D,13.8,2015-06-16
+Casey Joseph,30540533,M,18. Terminator 2: Judgment Day,Normal,8.74,2017-08-15
+Matthew Williams MD,85512559,M,14. 2001: A Space Odyssey,3D,11.02,2023-05-25
+Taylor Johnson,61392937,M,20. Raiders of the Lost Ark,3D,13.63,2020-05-14
+Daniel Gonzales,85351854,M,3. Citizen Kane,Normal,8.03,2022-09-18
+Sarah Kennedy,47000967,F,"6. The Good, the Bad and the Ugly",3D,12.39,2021-12-05
+Matthew Mcdaniel,27567250,M,9. The Dark Knight,3D,11.79,2022-08-23
+Tracy Cunningham,50542144,F,9. The Dark Knight,3D,10.17,2020-01-31
+Katherine Morrow,97174593,F,18. Terminator 2: Judgment Day,3D,10.88,2023-02-01
+George Moody,98660431,M,20. Raiders of the Lost Ark,Normal,7.56,2024-03-09
+Sherri White,89140848,F,8. The Lord of the Rings: The Return of the King,3D,11.26,2019-07-02
+Trevor Barry,73345850,M,"6. The Good, the Bad and the Ugly",Normal,7.06,2017-12-23
+Nicholas Morris,54583106,M,11. Pulp Fiction,Normal,6.71,2022-09-02
+Jake Jordan,66574406,M,5. Schindler's List,Normal,8.68,2022-03-25
+Jennifer Jackson,53313383,F,18. Terminator 2: Judgment Day,3D,11.08,2021-11-23
+Jeffrey Cole,22094490,M,"6. The Good, the Bad and the Ugly",3D,11.62,2017-11-12
+Amy Stewart,77706720,F,24. Forrest Gump,3D,13.48,2016-11-13
+Kelly Hernandez,89977888,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,8.77,2025-02-13
+Christina Martinez,23587666,F,19. The Matrix,3D,10.14,2017-12-16
+Ernest Diaz,99714580,M,3. Citizen Kane,Normal,7.32,2017-08-14
+Mr. Thomas Long,99620085,M,8. The Lord of the Rings: The Return of the King,Normal,8.21,2020-10-01
+Kara Turner,90722898,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.23,2017-07-17
+Chad Burton,94766534,M,19. The Matrix,3D,13.95,2025-01-01
+Jason Garcia,13589390,M,4. 12 Angry Men,3D,11.54,2024-05-14
+Amanda James,85744662,F,"6. The Good, the Bad and the Ugly",3D,11.2,2016-08-19
+Joseph Hawkins,59225206,M,20. Raiders of the Lost Ark,3D,10.16,2017-09-08
+Eric Black,42811588,M,21. Casablanca,Normal,6.03,2019-03-13
+Colleen Garcia,59898880,F,9. The Dark Knight,3D,10.84,2016-05-15
+Mark Rodriguez,42437217,M,24. Forrest Gump,3D,10.06,2015-09-20
+Samantha Oconnor,52794026,F,22. The Wizard of Oz,3D,13.64,2018-01-07
+Stephanie Stephenson,30479246,F,3. Citizen Kane,3D,13.75,2023-09-12
+Maria Conley,85594631,F,21. Casablanca,3D,10.86,2022-02-04
+Amanda Dennis,65053473,F,2. The Godfather,3D,11.38,2020-12-23
+Michelle Rodgers,56726972,F,21. Casablanca,3D,12.5,2016-05-23
+Robert Butler,47474425,M,1. The Shawshank Redemption,Normal,8.92,2020-01-14
+Carlos Yu,46747374,M,11. Pulp Fiction,3D,11.24,2019-03-14
+Daniel Stewart,33972071,M,20. Raiders of the Lost Ark,3D,13.84,2023-01-13
+Joseph Harris,64433899,M,21. Casablanca,Normal,8.02,2023-01-17
+Ebony Hahn,75081264,F,20. Raiders of the Lost Ark,3D,11.0,2024-02-18
+Stephen Bush Jr.,17003327,M,15. Metropolis,3D,10.38,2016-02-25
+Carrie Martin,88290336,F,1. The Shawshank Redemption,3D,10.26,2018-04-09
+Monique Mendez,51316019,F,4. 12 Angry Men,3D,11.95,2015-09-04
+Troy Williams,33708663,M,3. Citizen Kane,Normal,7.42,2018-06-09
+Jacob Rodriguez,17225128,M,16. Star Wars: Episode IV - A New Hope,Normal,6.06,2024-05-26
+Christopher Bright,70237427,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.22,2021-07-27
+Michael Brown,61111546,M,13. Psycho,Normal,6.03,2017-08-23
+Cynthia Fernandez,45133538,F,2. The Godfather,3D,13.2,2024-11-25
+Danny Duncan,26625739,M,16. Star Wars: Episode IV - A New Hope,3D,12.76,2015-07-16
+Marcus Bailey,90472104,M,18. Terminator 2: Judgment Day,Normal,6.78,2023-08-06
+Taylor Santos,79899408,F,18. Terminator 2: Judgment Day,3D,13.79,2024-02-05
+Dominique Manning,37741209,F,19. The Matrix,Normal,7.46,2024-03-05
+Sonya Palmer,44341725,F,5. Schindler's List,Normal,8.09,2017-04-04
+Kelly Harris,68360815,F,9. The Dark Knight,Normal,7.98,2016-05-30
+Todd Baker,14160706,M,20. Raiders of the Lost Ark,Normal,8.12,2016-10-31
+Brandon Porter,14714344,M,23. Seven Samurai,Normal,6.3,2022-03-23
+Tyler Case,88727719,M,10. The Godfather Part II,Normal,7.7,2016-09-18
+Cynthia Padilla,63455236,F,19. The Matrix,3D,13.35,2024-10-24
+Elizabeth Holmes,91565277,F,1. The Shawshank Redemption,Normal,6.85,2022-10-16
+Rhonda Clements,81379327,F,4. 12 Angry Men,Normal,8.75,2017-10-13
+Robin Cox,71560680,F,14. 2001: A Space Odyssey,Normal,8.55,2020-06-27
+Stephen Murray,74747756,M,12. Fight Club,3D,12.36,2020-02-02
+Amy Walter,56456845,F,2. The Godfather,Normal,6.44,2024-06-09
+Mrs. Nicole Avila,52412974,F,12. Fight Club,Normal,7.48,2017-12-05
+Michelle Watson,91113010,F,19. The Matrix,Normal,7.53,2017-08-18
+Matthew Rodriguez,17812935,M,13. Psycho,3D,11.23,2017-09-26
+Kristopher Cisneros,71656589,M,9. The Dark Knight,Normal,7.75,2020-08-06
+Ryan Sampson,98551911,M,24. Forrest Gump,3D,13.95,2019-06-26
+Shawna Simmons,49400859,F,11. Pulp Fiction,Normal,8.92,2023-12-05
+Robert Thompson,51540066,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.11,2016-01-03
+Timothy Bailey,36088486,M,14. 2001: A Space Odyssey,Normal,8.99,2016-06-06
+Dana Green,47230136,F,"6. The Good, the Bad and the Ugly",3D,12.89,2017-01-14
+Hector Burton,69516590,M,5. Schindler's List,3D,12.23,2019-01-15
+Russell Martinez DDS,47275782,M,22. The Wizard of Oz,3D,12.32,2016-09-09
+Krista Brown,16884054,F,5. Schindler's List,Normal,7.61,2020-11-07
+Victoria Barry,77446008,F,14. 2001: A Space Odyssey,Normal,6.28,2017-03-21
+Kelsey Reese,82190978,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.0,2018-03-23
+Jodi Wells,64279275,F,19. The Matrix,3D,10.87,2021-02-16
+Jordan Parks,32823463,M,14. 2001: A Space Odyssey,Normal,6.82,2024-07-19
+Amanda Morgan,18294286,F,8. The Lord of the Rings: The Return of the King,3D,11.6,2019-05-17
+Thomas Todd,83134868,M,5. Schindler's List,3D,10.3,2019-05-08
+Shawn Middleton,49585818,M,18. Terminator 2: Judgment Day,Normal,7.66,2019-02-05
+Robert Holloway,57168487,M,5. Schindler's List,3D,12.4,2020-10-29
+Helen Hall,86521196,F,12. Fight Club,3D,10.54,2021-05-10
+Maria Davis,25300383,F,3. Citizen Kane,Normal,8.25,2017-03-31
+Tammy Nguyen,98972012,F,9. The Dark Knight,Normal,6.04,2021-05-08
+Carol Summers,80549364,F,22. The Wizard of Oz,Normal,7.74,2020-11-23
+Tina Miller,71047807,F,25. Inception,Normal,8.88,2019-08-11
+Tanya Nixon,86183596,F,21. Casablanca,Normal,6.21,2022-10-25
+Matthew Smith,13323116,M,24. Forrest Gump,Normal,6.77,2020-05-07
+Larry Wiggins,28235830,M,19. The Matrix,Normal,8.34,2017-10-21
+Sandra Nielsen,79782136,F,23. Seven Samurai,3D,10.45,2016-11-08
+Gary Rogers,96382730,M,17. The Lord of the Rings: The Fellowship of the Ring,Normal,8.64,2022-01-07
+Angela Mcknight,96616646,F,21. Casablanca,Normal,8.61,2023-08-26
+Joseph Davis,60403784,M,7. Star Wars: Episode V - The Empire Strikes Back,Normal,6.9,2021-11-12
+Jeanne Oconnor,87691991,F,2. The Godfather,3D,11.17,2021-07-27
+Stephen Watkins,79183859,M,16. Star Wars: Episode IV - A New Hope,Normal,6.01,2025-03-28
+Morgan Mills,11837614,F,10. The Godfather Part II,3D,10.74,2015-10-18
+Katherine Torres,97287858,F,11. Pulp Fiction,3D,12.68,2017-04-12
+Christina Rangel,45913929,F,12. Fight Club,Normal,6.52,2023-02-03
+Ashley Hicks,21090488,F,17. The Lord of the Rings: The Fellowship of the Ring,Normal,7.96,2021-05-31
+Sherri Schwartz,84237714,F,22. The Wizard of Oz,Normal,6.12,2020-10-11
+Tammy Heath,16470734,F,21. Casablanca,3D,13.07,2019-01-11
+Walter Gilbert,58055957,M,8. The Lord of the Rings: The Return of the King,Normal,7.99,2023-03-23
+Manuel Brown,56090266,M,13. Psycho,Normal,6.89,2015-12-21
+Heidi Leonard,59865636,F,5. Schindler's List,3D,12.31,2018-04-01
+Madeline Williams,26250272,F,2. The Godfather,3D,12.3,2016-07-16
+Erin Bishop,25244652,F,10. The Godfather Part II,Normal,7.22,2021-12-30
+Travis Montes,26788327,M,10. The Godfather Part II,Normal,8.82,2023-06-10
+Kathryn Rodriguez,83971362,F,13. Psycho,Normal,6.5,2021-07-06
+Marie Robinson,70177216,F,"6. The Good, the Bad and the Ugly",3D,10.61,2016-05-06
+Pamela Monroe,89888249,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.36,2024-02-22
+Billy Henry,68401976,M,11. Pulp Fiction,Normal,8.31,2024-09-28
+Jason Morgan,76652827,M,4. 12 Angry Men,Normal,7.26,2023-08-01
+Julie Baker,29877841,F,19. The Matrix,Normal,7.59,2022-10-05
+Kimberly Miller,69105220,F,20. Raiders of the Lost Ark,Normal,7.41,2021-12-18
+Nicholas Davis,67138299,M,25. Inception,3D,13.57,2023-08-05
+Christy Willis,47736848,F,13. Psycho,Normal,8.66,2023-07-23
+Joseph George,26955172,M,1. The Shawshank Redemption,Normal,6.46,2017-11-12
+Lauren Ho,57864232,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.96,2024-03-07
+Laura Mendez,99167486,F,15. Metropolis,3D,13.5,2019-08-14
+Cathy Lucas,25109933,F,25. Inception,Normal,6.4,2016-07-03
+Austin Tate,11559046,M,22. The Wizard of Oz,Normal,6.37,2018-09-02
+Spencer Hoover,57055146,M,4. 12 Angry Men,Normal,6.07,2022-05-16
+Samuel Meyer,47235600,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.93,2015-11-15
+Christopher Ramos MD,41665711,M,8. The Lord of the Rings: The Return of the King,3D,10.29,2021-04-23
+Victoria Perez,17464481,F,25. Inception,Normal,8.03,2023-01-23
+Wayne Hernandez,13989581,M,1. The Shawshank Redemption,3D,11.62,2020-11-01
+Jasmine Garcia,72398620,F,2. The Godfather,Normal,7.7,2019-07-09
+Jacob Graham,54801250,M,15. Metropolis,3D,10.39,2022-09-05
+Peter Cooper,14773510,M,9. The Dark Knight,3D,12.57,2015-12-17
+Jacob Peterson,28739489,M,2. The Godfather,3D,10.57,2024-10-30
+Heather Potter,85873131,F,12. Fight Club,3D,13.09,2015-09-20
+Shari Robinson,24334560,F,12. Fight Club,3D,13.48,2023-04-25
+Susan Thompson,14177789,F,24. Forrest Gump,Normal,6.74,2015-10-13
+Donald Price,67684947,M,24. Forrest Gump,Normal,6.77,2024-02-18
+Peggy Burke,66439525,F,16. Star Wars: Episode IV - A New Hope,Normal,8.04,2024-12-26
+Dr. Sarah Burns MD,49075453,F,11. Pulp Fiction,Normal,6.49,2015-08-17
+Kathleen May,50952499,F,16. Star Wars: Episode IV - A New Hope,Normal,6.78,2018-10-10
+Carl Roberts,12946852,M,20. Raiders of the Lost Ark,Normal,6.52,2019-04-02
+Justin Mcguire,21362598,M,24. Forrest Gump,Normal,6.37,2021-08-20
+Meagan Hobbs,31532223,F,21. Casablanca,3D,10.56,2018-01-09
+Kimberly Hall,23950379,F,5. Schindler's List,Normal,7.03,2023-09-03
+Jennifer Kane,59659352,F,20. Raiders of the Lost Ark,3D,12.93,2023-03-06
+Mario Allen,10270792,M,9. The Dark Knight,Normal,8.36,2022-12-23
+Amy Gonzalez,58040680,F,24. Forrest Gump,Normal,7.51,2023-08-10
+Ashley Butler,29520565,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,6.58,2023-06-24
+Brianna Harrison,35293778,F,17. The Lord of the Rings: The Fellowship of the Ring,Normal,6.73,2019-04-13
+George Rosario Jr.,39883956,M,13. Psycho,3D,11.46,2015-06-29
+Jeffrey Reeves,79553876,M,16. Star Wars: Episode IV - A New Hope,3D,12.95,2021-07-09
+Elizabeth Herrera,76393620,F,20. Raiders of the Lost Ark,3D,13.58,2019-05-23
+Joshua Greene,14047186,M,20. Raiders of the Lost Ark,Normal,7.51,2016-04-01
+Summer Greene,24278613,F,3. Citizen Kane,3D,11.91,2015-10-13
+Haley Guerrero,94275685,F,12. Fight Club,Normal,8.71,2023-09-22
+Anna Hayes,92802022,F,"6. The Good, the Bad and the Ugly",Normal,8.72,2024-02-20
+Michele Lee,50334814,F,12. Fight Club,3D,12.71,2017-05-10
+Crystal Willis,20507012,F,"6. The Good, the Bad and the Ugly",Normal,8.89,2020-07-22
+Christine Sanchez,31758211,F,15. Metropolis,3D,10.32,2015-07-05
+Aaron Clark,75281929,M,3. Citizen Kane,Normal,6.88,2019-03-20
+David Patrick,13821968,M,1. The Shawshank Redemption,Normal,8.93,2023-08-27
+Jennifer Hanson,97089174,F,25. Inception,Normal,8.84,2019-09-10
+Abigail Newton,66264310,F,15. Metropolis,Normal,7.68,2021-10-26
+Brent Wolfe,99575004,M,16. Star Wars: Episode IV - A New Hope,Normal,7.5,2015-09-24
+Amanda Massey,51578205,F,1. The Shawshank Redemption,3D,11.27,2024-11-22
+Caroline King,92135713,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.19,2024-05-14
+Brenda Reese,64561854,F,9. The Dark Knight,3D,10.5,2020-12-06
+Gary Owens,62611485,M,7. Star Wars: Episode V - The Empire Strikes Back,Normal,8.73,2021-11-16
+Richard Campbell,28749465,M,15. Metropolis,3D,13.34,2023-04-08
+Jamie Castro,69699312,F,18. Terminator 2: Judgment Day,3D,10.38,2016-07-13
+Stephen Sweeney,76971173,M,18. Terminator 2: Judgment Day,3D,11.02,2019-11-16
+Penny Gilbert,66113569,F,17. The Lord of the Rings: The Fellowship of the Ring,Normal,6.16,2024-10-04
+Shawn Williams,46439934,M,24. Forrest Gump,Normal,7.67,2022-11-06
+Erin Terry,29713073,F,12. Fight Club,Normal,6.51,2018-07-19
+Abigail Griffin,85326471,F,23. Seven Samurai,Normal,8.46,2017-03-08
+Chris Miller,30025853,M,5. Schindler's List,Normal,7.8,2019-01-10
+Michelle Mendez,12184247,F,13. Psycho,Normal,8.3,2018-09-21
+Lori Hancock,79836585,F,24. Forrest Gump,3D,13.36,2020-12-08
+Michael Kelly,28351763,M,10. The Godfather Part II,3D,11.8,2021-02-18
+Brandon Green,75515165,M,18. Terminator 2: Judgment Day,3D,11.48,2023-04-20
+Angela Mays,59246378,F,9. The Dark Knight,3D,10.53,2023-12-22
+Albert Snyder,38937664,M,14. 2001: A Space Odyssey,3D,10.96,2025-01-14
+Victor Moore,20137402,M,20. Raiders of the Lost Ark,3D,12.56,2018-06-02
+Corey Shea,97200658,M,4. 12 Angry Men,3D,12.02,2020-03-27
+William Howard,59901963,M,5. Schindler's List,3D,11.16,2016-06-07
+Katelyn Carter,67380677,F,21. Casablanca,3D,13.9,2024-11-13
+Amanda Krueger,42445406,F,13. Psycho,3D,11.01,2017-10-21
+Manuel Collier,31955470,M,19. The Matrix,Normal,7.78,2018-04-12
+Sarah Smith,70922872,F,13. Psycho,3D,13.09,2015-07-17
+Rachel Wilson,58083412,F,11. Pulp Fiction,3D,12.28,2015-06-23
+Tiffany Obrien,26425965,F,8. The Lord of the Rings: The Return of the King,3D,12.17,2021-12-12
+Steven Snyder,32522217,M,10. The Godfather Part II,3D,13.37,2020-06-21
+Peggy Anderson,22358017,F,2. The Godfather,Normal,6.44,2022-10-31
+Catherine Ferguson,27785635,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,8.84,2016-12-28
+Jessica Jimenez,61406448,F,22. The Wizard of Oz,3D,13.02,2024-08-18
+Anthony Johnson,44254559,M,19. The Matrix,3D,12.22,2019-05-04
+Joseph Massey,95548567,M,25. Inception,3D,10.25,2017-04-21
+Phillip Sanders,81529228,M,12. Fight Club,3D,13.97,2021-09-19
+Alyssa Lam,68879175,F,11. Pulp Fiction,3D,12.44,2018-09-02
+Kelli Bennett,19263768,F,23. Seven Samurai,Normal,6.38,2024-12-28
+Rachael Johnson,47884585,F,20. Raiders of the Lost Ark,3D,10.93,2023-12-12
+Tonya Galvan,66421418,F,14. 2001: A Space Odyssey,Normal,7.21,2022-06-29
+Jody Lyons,85489996,F,18. Terminator 2: Judgment Day,Normal,6.86,2022-02-26
+Lisa Odonnell,40804716,F,21. Casablanca,Normal,8.17,2015-06-15
+Jeffrey Osborne,58013186,M,9. The Dark Knight,3D,12.73,2019-04-10
+Peter Cooper,62242317,M,5. Schindler's List,3D,10.38,2021-08-09
+Brooke Brown,87254009,F,"6. The Good, the Bad and the Ugly",Normal,7.66,2018-07-03
+Shelby Jimenez,46481117,F,5. Schindler's List,3D,12.33,2024-07-22
+Cynthia Rogers,67738645,F,22. The Wizard of Oz,Normal,6.24,2024-08-22
+Daniel Harris,35245802,M,24. Forrest Gump,Normal,8.67,2018-01-02
+Kelly Reyes,54487564,F,4. 12 Angry Men,3D,13.52,2024-09-23
+Taylor Nguyen,54015360,F,2. The Godfather,Normal,7.12,2018-12-31
+Kristen Obrien,18260754,F,24. Forrest Gump,3D,11.35,2017-09-29
+Michelle Austin,64662783,F,1. The Shawshank Redemption,Normal,8.13,2017-08-27
+David Johnson,30052206,M,24. Forrest Gump,Normal,7.18,2019-03-09
+Matthew Stephens,16889959,M,3. Citizen Kane,3D,13.3,2016-03-30
+Katherine Cook,16738716,F,1. The Shawshank Redemption,Normal,7.87,2018-01-11
+Catherine Gonzalez,76016071,F,15. Metropolis,Normal,6.17,2025-01-20
+Ashley Diaz,39659792,F,24. Forrest Gump,3D,11.74,2024-11-28
+Robert Clark,38931962,M,19. The Matrix,3D,13.47,2025-01-20
+Thomas Matthews,47591412,M,16. Star Wars: Episode IV - A New Hope,3D,11.44,2024-12-12
+Kevin Harrison,60624774,M,11. Pulp Fiction,3D,13.09,2016-07-02
+Daniel Perry,95179737,M,22. The Wizard of Oz,3D,10.49,2023-05-23
+Jennifer Schmidt,56069543,F,23. Seven Samurai,3D,10.65,2018-07-08
+Desiree Hogan,55053087,F,1. The Shawshank Redemption,3D,10.6,2015-07-05
+Elizabeth Cox,67530146,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,11.49,2023-03-22
+Vanessa Schmidt,14567695,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,13.83,2017-02-28
+Matthew Blair,47491661,M,13. Psycho,3D,12.9,2019-04-25
+Charles Martin,11605034,M,20. Raiders of the Lost Ark,Normal,6.55,2018-05-26
+Mrs. Samantha Brown DDS,47799745,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.09,2016-01-15
+Patrick Sanders,12010354,M,"6. The Good, the Bad and the Ugly",3D,10.68,2021-10-19
+Grace Hall,68538921,F,13. Psycho,3D,13.93,2025-04-26
+Marcus Hardy,52817140,M,13. Psycho,3D,12.88,2017-09-29
+Melanie Phillips,18639893,F,1. The Shawshank Redemption,Normal,6.42,2024-02-15
+Heather Smith,38801038,F,"6. The Good, the Bad and the Ugly",3D,12.26,2017-11-18
+Becky Glover,18960455,F,4. 12 Angry Men,3D,10.66,2024-08-18
+Joshua Williams,41940432,M,25. Inception,3D,10.25,2024-07-30
+Robert Mathis,12974245,M,15. Metropolis,3D,11.77,2023-12-18
+Gina Anderson,18960398,F,12. Fight Club,3D,12.25,2018-09-26
+Carla Jones,90625095,F,15. Metropolis,Normal,8.01,2017-03-28
+Justin Jones,67665569,M,18. Terminator 2: Judgment Day,3D,10.45,2019-04-15
+Kerri Warren,20385394,F,8. The Lord of the Rings: The Return of the King,Normal,8.38,2024-11-05
+Daniel Perez,42392603,M,10. The Godfather Part II,Normal,8.51,2022-07-14
+William Kim,65342967,M,20. Raiders of the Lost Ark,3D,11.19,2020-05-13
+Jose Harris,32914036,M,25. Inception,Normal,8.7,2024-06-30
+Lisa Sanford,64289444,F,19. The Matrix,Normal,8.47,2018-03-25
+Jeffrey Davenport,37743969,M,3. Citizen Kane,3D,12.53,2024-08-07
+Joseph Larsen,54785308,M,1. The Shawshank Redemption,3D,12.0,2017-11-12
+Eric Graves,35127583,M,2. The Godfather,Normal,8.31,2016-04-02
+Jason Mann,31082269,M,2. The Godfather,3D,10.18,2019-03-17
+Morgan Gentry,79092096,F,"6. The Good, the Bad and the Ugly",Normal,7.01,2017-10-09
+John Gonzalez,49462540,M,20. Raiders of the Lost Ark,Normal,6.09,2023-08-23
+Michael Rios,73594961,M,22. The Wizard of Oz,Normal,6.02,2020-09-30
+Candice Marshall,55632710,F,24. Forrest Gump,3D,11.29,2021-05-07
+Maria Casey,54055682,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.99,2020-01-10
+Cody Williams,24393938,M,5. Schindler's List,Normal,8.92,2017-08-15
+Michael Leblanc,66180272,M,23. Seven Samurai,3D,12.71,2016-08-21
+Kristen Baldwin,43689874,F,4. 12 Angry Men,3D,11.05,2016-09-26
+Tanya Vega,90383191,F,10. The Godfather Part II,Normal,7.5,2019-09-30
+Jordan Grant,29655422,M,25. Inception,3D,13.89,2022-09-04
+Parker Warren,35522529,M,22. The Wizard of Oz,3D,11.42,2022-09-24
+Oscar Lewis,87216422,M,16. Star Wars: Episode IV - A New Hope,3D,11.1,2020-08-15
+Samantha Galloway,71489280,F,9. The Dark Knight,Normal,7.01,2016-07-28
+Larry Richards,60234773,M,23. Seven Samurai,3D,11.91,2021-08-06
+Dylan Villarreal,57886052,M,4. 12 Angry Men,3D,12.87,2022-02-10
+Bryan Lamb,94788502,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.7,2023-03-25
+Jennifer Johnson,71478694,F,3. Citizen Kane,3D,11.98,2024-09-11
+Diane Riggs,69565029,F,20. Raiders of the Lost Ark,3D,13.57,2021-01-23
+Kevin Gonzalez,54989585,M,17. The Lord of the Rings: The Fellowship of the Ring,Normal,7.35,2022-12-28
+Ronald Livingston,92687603,M,16. Star Wars: Episode IV - A New Hope,3D,11.27,2016-09-28
+Lori Wilson,73242482,F,20. Raiders of the Lost Ark,Normal,8.25,2019-09-27
+Thomas King,19191260,M,"6. The Good, the Bad and the Ugly",3D,13.34,2019-10-15
+James Boyle,40094767,M,1. The Shawshank Redemption,3D,11.84,2019-11-04
+Mrs. Kristen Ferguson DVM,37731067,F,9. The Dark Knight,3D,13.05,2023-09-27
+Carla Salinas,97103904,F,19. The Matrix,Normal,6.27,2019-12-24
+Joshua Dawson,59628445,M,9. The Dark Knight,Normal,8.16,2015-11-26
+Valerie Ayers,52583470,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.9,2016-06-13
+Kenneth Moyer,81892635,M,3. Citizen Kane,3D,11.29,2021-02-21
+Ricardo Porter,40905351,M,1. The Shawshank Redemption,3D,11.02,2017-10-22
+Lisa Kelley,59986199,F,24. Forrest Gump,3D,11.06,2022-06-11
+Wendy Rollins,80873420,F,13. Psycho,3D,12.04,2015-08-27
+Ryan Jacobs,83277480,M,10. The Godfather Part II,3D,10.41,2024-12-04
+Nicholas Graham,97772060,M,"6. The Good, the Bad and the Ugly",Normal,6.72,2024-03-10
+David Jensen,18423503,M,1. The Shawshank Redemption,Normal,7.82,2023-08-04
+Vickie Coleman,77712767,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.58,2022-02-27
+Thomas Kim,86554629,M,24. Forrest Gump,3D,13.16,2017-05-08
+Mario Berger Jr.,22752187,M,17. The Lord of the Rings: The Fellowship of the Ring,Normal,8.68,2017-05-25
+John Winters,65152707,M,10. The Godfather Part II,Normal,8.56,2020-05-07
+Jeffrey Andrews PhD,11034400,M,3. Citizen Kane,Normal,8.93,2016-03-17
+Jennifer Moore,49032436,F,1. The Shawshank Redemption,3D,11.73,2024-10-31
+Mark Ellis,83440765,M,16. Star Wars: Episode IV - A New Hope,3D,11.09,2021-12-23
+Edwin Phillips,27374561,M,22. The Wizard of Oz,Normal,7.06,2022-11-15
+Jennifer Cook,32175858,F,21. Casablanca,3D,12.29,2018-10-28
+Daniel Shaw,47017683,M,13. Psycho,3D,11.94,2019-08-16
+Kelsey Lester,63597905,F,19. The Matrix,Normal,6.49,2021-04-01
+Breanna Henry,89658382,F,25. Inception,3D,11.17,2017-07-25
+Tasha Chen,17011945,F,2. The Godfather,Normal,8.42,2025-02-17
+Michael Villegas,98648882,M,14. 2001: A Space Odyssey,Normal,7.62,2020-06-19
+Cindy Robertson,34735027,F,9. The Dark Knight,3D,13.68,2019-01-20
+Joan Miller,16893032,F,16. Star Wars: Episode IV - A New Hope,3D,11.08,2020-06-22
+Tina Flynn,36300454,F,23. Seven Samurai,3D,12.67,2023-12-04
+Joshua Lynch,81420913,M,12. Fight Club,Normal,7.97,2024-03-04
+Nancy Hines,41778856,F,"6. The Good, the Bad and the Ugly",Normal,8.75,2021-04-16
+Dorothy Anderson,90899781,F,12. Fight Club,Normal,8.69,2023-07-28
+John Lee,44326755,M,4. 12 Angry Men,Normal,8.48,2018-04-29
+Lisa Simmons,52456390,F,25. Inception,Normal,8.67,2018-02-27
+Tanya Duncan,79404172,F,4. 12 Angry Men,Normal,7.71,2017-06-17
+Angela Wilson,34772023,F,5. Schindler's List,Normal,8.81,2023-10-04
+Cindy Wilson,64949405,F,9. The Dark Knight,Normal,7.18,2018-06-13
+Nicholas Bruce,43952710,M,25. Inception,Normal,8.44,2022-07-15
+Andrew Gilmore,71453786,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.32,2021-07-27
+Robin Wilson,53751059,F,22. The Wizard of Oz,Normal,6.59,2022-09-19
+Alicia Barker,69352679,F,24. Forrest Gump,3D,12.71,2017-08-19
+Julie Goodman,60240275,F,"6. The Good, the Bad and the Ugly",3D,13.27,2021-04-22
+Michelle Medina,88817535,F,1. The Shawshank Redemption,Normal,6.33,2022-07-23
+Terry Small,35837616,M,"6. The Good, the Bad and the Ugly",Normal,7.72,2018-02-28
+Jason Lewis,77764061,M,16. Star Wars: Episode IV - A New Hope,Normal,7.27,2016-06-21
+Brenda Kelly,75495861,F,3. Citizen Kane,3D,11.62,2019-04-21
+Gary Silva,86759965,M,4. 12 Angry Men,3D,10.21,2019-10-12
+Sheila Hess,51386582,F,18. Terminator 2: Judgment Day,3D,13.17,2018-08-25
+Olivia Garza,68362147,F,15. Metropolis,3D,13.23,2020-08-11
+Dwayne Taylor,22925304,M,8. The Lord of the Rings: The Return of the King,Normal,8.37,2024-02-16
+Andre Parker,71809778,M,9. The Dark Knight,3D,11.26,2022-03-15
+Michael Shannon,11178068,M,18. Terminator 2: Judgment Day,Normal,6.93,2019-03-21
+Travis Benton,87411289,M,18. Terminator 2: Judgment Day,Normal,6.66,2015-12-23
+Travis Chan,92402997,M,21. Casablanca,3D,12.78,2024-12-23
+Patricia Rowe DDS,23202573,F,11. Pulp Fiction,Normal,8.31,2020-12-14
+Shelly White,89475611,F,14. 2001: A Space Odyssey,3D,11.04,2025-05-02
+Anita Reese,54775754,F,24. Forrest Gump,3D,13.31,2021-07-01
+Kim Moore,33135867,F,9. The Dark Knight,Normal,8.51,2023-07-30
+Manuel Smith,88145081,M,21. Casablanca,3D,11.62,2022-11-07
+Adam Fitzgerald,67618133,M,23. Seven Samurai,Normal,6.72,2024-06-02
+Mark Schneider,53151752,M,5. Schindler's List,3D,11.42,2020-04-06
+Terri Mccall,30889615,F,23. Seven Samurai,Normal,7.12,2022-09-08
+Jane Washington DVM,46423825,F,16. Star Wars: Episode IV - A New Hope,Normal,8.46,2024-06-06
+Virginia Austin,92558652,F,3. Citizen Kane,Normal,7.4,2017-10-03
+Christina Nichols,25543458,F,15. Metropolis,3D,10.61,2022-05-27
+Rebecca Murray,54393570,F,3. Citizen Kane,3D,13.37,2016-06-26
+Courtney Quinn,94549929,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,8.01,2023-10-11
+Tammy Munoz,77181554,F,9. The Dark Knight,Normal,6.75,2018-02-27
+Alexis Bautista,71438350,F,18. Terminator 2: Judgment Day,Normal,7.58,2024-03-10
+James Grant,57860171,M,9. The Dark Knight,3D,11.79,2023-06-25
+Mia Williams,94349445,F,25. Inception,Normal,8.66,2018-04-24
+Thomas Hale,87267389,M,"6. The Good, the Bad and the Ugly",Normal,8.58,2016-03-30
+Daniel Martin DDS,27140092,M,1. The Shawshank Redemption,3D,11.66,2016-10-13
+Roberto Garza,58868951,M,15. Metropolis,Normal,7.16,2022-06-07
+Douglas Murray,48584460,M,8. The Lord of the Rings: The Return of the King,Normal,6.41,2021-07-26
+Christina Williams,27963826,F,23. Seven Samurai,Normal,8.59,2017-12-28
+Sydney Neal MD,80542479,F,19. The Matrix,Normal,6.37,2019-07-08
+Todd Oneill,87397210,M,"6. The Good, the Bad and the Ugly",3D,13.67,2024-04-19
+Kara Johnston,95428676,F,10. The Godfather Part II,3D,13.33,2024-12-19
+Alexander Brown,52087732,M,21. Casablanca,3D,10.68,2025-03-25
+Matthew King,15801719,M,11. Pulp Fiction,3D,12.52,2022-04-15
+Brittney Hall,87771571,F,15. Metropolis,Normal,6.45,2016-06-24
+James Ross,91901217,M,9. The Dark Knight,3D,12.65,2023-08-28
+Jose Anderson,59564164,M,2. The Godfather,Normal,6.97,2021-06-07
+Robert Wallace,82400345,M,2. The Godfather,Normal,6.61,2024-02-18
+James Huffman,15272050,M,"6. The Good, the Bad and the Ugly",Normal,6.66,2016-05-14
+Aaron Sweeney,83271657,M,12. Fight Club,Normal,6.84,2021-12-20
+Jeffrey Padilla,46139984,M,9. The Dark Knight,3D,10.53,2021-11-18
+Troy Bryant,16215407,M,4. 12 Angry Men,3D,11.62,2022-06-16
+Nancy Martinez,24460272,F,22. The Wizard of Oz,3D,10.82,2019-11-15
+Ellen Strickland,36468750,F,3. Citizen Kane,3D,10.55,2016-10-08
+Devin Oliver,63597116,M,22. The Wizard of Oz,3D,10.79,2022-12-19
+Todd Schneider,12193343,M,"6. The Good, the Bad and the Ugly",Normal,7.77,2025-04-14
+Michael Thomas,28677114,M,20. Raiders of the Lost Ark,3D,10.38,2017-10-27
+Amy Leonard,57776483,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.88,2019-11-02
+David Paul,75465468,M,21. Casablanca,3D,13.33,2024-12-26
+Tanya Lewis,80892815,F,9. The Dark Knight,3D,13.07,2016-05-02
+Robert Estrada,85776034,M,14. 2001: A Space Odyssey,3D,13.0,2022-07-06
+Chelsea Jones,81988237,F,8. The Lord of the Rings: The Return of the King,Normal,6.55,2025-02-24
+Jessica Cox,75629487,F,8. The Lord of the Rings: The Return of the King,Normal,7.58,2024-10-17
+Natasha Meyers,97020868,F,23. Seven Samurai,Normal,7.69,2023-05-03
+Laura Rosales,44727500,F,16. Star Wars: Episode IV - A New Hope,Normal,8.91,2023-06-18
+Raymond Middleton,44738240,M,15. Metropolis,Normal,6.41,2023-01-18
+Raymond Mcdaniel,69776482,M,4. 12 Angry Men,Normal,6.64,2015-06-05
+Courtney Hall,38458046,F,15. Metropolis,3D,13.38,2018-11-05
+Christopher Watkins,94735014,M,9. The Dark Knight,3D,11.74,2016-05-10
+Jaclyn Lopez,77584897,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,6.4,2024-03-21
+Daniel Phillips,28966723,M,14. 2001: A Space Odyssey,3D,10.84,2019-02-06
+Michael Huber,94425032,M,20. Raiders of the Lost Ark,3D,12.05,2016-12-04
+Charles Knapp,43326396,M,12. Fight Club,Normal,7.33,2016-02-07
+Shawn Mclaughlin,73468112,M,1. The Shawshank Redemption,3D,12.07,2021-04-28
+Andrew Russell,16631193,M,18. Terminator 2: Judgment Day,3D,12.65,2020-08-24
+Angel Hooper,68442806,M,9. The Dark Knight,3D,10.82,2023-04-26
+Thomas Braun,63675958,M,12. Fight Club,Normal,6.95,2024-08-10
+Joseph Lane,68379166,M,15. Metropolis,Normal,7.63,2023-05-13
+Joshua Myers,50871250,M,25. Inception,Normal,7.21,2023-05-10
+Toni Jones,58161399,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,6.1,2019-12-26
+Sandra Smith,69821908,F,19. The Matrix,Normal,7.7,2024-07-14
+Mark Rodriguez,81427355,M,24. Forrest Gump,Normal,6.33,2019-01-21
+Joseph Mcdonald,87900308,M,23. Seven Samurai,3D,12.2,2019-10-23
+Rachael Morgan,29172862,F,15. Metropolis,Normal,6.24,2023-08-03
+Olivia Anderson,34236134,F,5. Schindler's List,3D,10.02,2022-09-26
+Martha Cook,61312387,F,8. The Lord of the Rings: The Return of the King,Normal,7.18,2020-06-16
+Kellie Williams,12444010,F,13. Psycho,Normal,7.76,2020-07-09
+Jaclyn Davis,44710204,F,21. Casablanca,Normal,7.21,2020-04-14
+Allison Juarez,54034329,F,4. 12 Angry Men,Normal,6.18,2020-02-02
+Joel Johnson,96852922,M,23. Seven Samurai,3D,13.95,2024-04-02
+Cindy Maxwell,95005135,F,11. Pulp Fiction,Normal,8.73,2015-11-13
+Stephen Jordan,33619562,M,3. Citizen Kane,Normal,7.72,2016-04-04
+Christina Anderson,45844419,F,24. Forrest Gump,3D,13.44,2025-04-23
+Robert Orr,72467601,M,4. 12 Angry Men,Normal,8.7,2018-07-26
+Kimberly Zavala,98509115,F,15. Metropolis,Normal,8.37,2020-01-25
+Michael Pittman II,19986714,M,8. The Lord of the Rings: The Return of the King,3D,10.55,2022-07-07
+Philip Sutton,73778217,M,22. The Wizard of Oz,3D,13.03,2023-11-19
+Kevin Mcgee,20915978,M,25. Inception,Normal,7.77,2020-03-14
+Joseph White,93241300,M,13. Psycho,Normal,8.43,2021-08-08
+Victoria Newman,50106341,F,11. Pulp Fiction,Normal,6.91,2021-04-06
+William Williams,35814155,M,9. The Dark Knight,Normal,6.28,2020-06-15
+Richard Novak,11786644,M,25. Inception,Normal,7.13,2019-05-14
+Belinda Hernandez,76584887,F,25. Inception,3D,13.42,2020-11-28
+Erica Fields,36658105,F,5. Schindler's List,3D,11.39,2020-10-05
+Steven Doyle,21931603,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.79,2024-07-16
+Ronald Kane,98994949,M,12. Fight Club,Normal,7.21,2023-09-03
+Jennifer Bennett,47362931,F,16. Star Wars: Episode IV - A New Hope,3D,12.26,2017-04-30
+Sandra Kennedy,99766969,F,24. Forrest Gump,3D,11.5,2024-11-28
+Alyssa Smith,65351268,F,12. Fight Club,Normal,6.99,2025-01-19
+Marie Brown,85260029,F,12. Fight Club,3D,12.31,2019-03-26
+Monica Soto,96163144,F,17. The Lord of the Rings: The Fellowship of the Ring,Normal,6.87,2022-02-22
+David Collins,63222194,M,"6. The Good, the Bad and the Ugly",Normal,7.15,2019-10-02
+Dylan James,68990406,M,5. Schindler's List,Normal,7.75,2020-05-30
+Rebekah Bartlett,18417407,F,23. Seven Samurai,3D,11.5,2021-09-25
+Steven Mayer,29968423,M,10. The Godfather Part II,3D,13.77,2018-10-14
+Stephanie Roman,73003360,F,24. Forrest Gump,Normal,8.93,2024-07-20
+Haley Hernandez,65503667,F,23. Seven Samurai,Normal,7.44,2016-01-15
+Logan Erickson,53201810,M,25. Inception,3D,13.45,2017-10-19
+Douglas Hill,95619679,M,15. Metropolis,Normal,6.2,2022-03-23
+Trevor Knight,77876024,M,5. Schindler's List,Normal,7.34,2021-07-03
+Ashley Williams,32493694,F,19. The Matrix,Normal,6.07,2023-07-31
+Victor Drake,15394737,M,5. Schindler's List,3D,11.73,2021-01-20
+Taylor Burgess,40110956,F,20. Raiders of the Lost Ark,3D,12.38,2018-08-09
+Jamie Molina,11459257,F,"6. The Good, the Bad and the Ugly",Normal,6.84,2024-02-14
+Monique Powers,50945080,F,9. The Dark Knight,Normal,6.96,2023-06-07
+Laura Thompson,41952469,F,17. The Lord of the Rings: The Fellowship of the Ring,3D,10.05,2020-03-19
+Carrie Hammond,74045663,F,15. Metropolis,3D,11.36,2024-04-25
+Kiara Diaz,77759263,F,4. 12 Angry Men,3D,12.86,2020-07-02
+Gwendolyn Martinez,16942848,F,8. The Lord of the Rings: The Return of the King,Normal,8.0,2023-06-08
+Patrick Carney,33866625,M,24. Forrest Gump,3D,11.81,2019-11-24
+Bruce Hansen,52744974,M,12. Fight Club,3D,12.67,2019-07-02
+Brittany Mullins,70045187,F,8. The Lord of the Rings: The Return of the King,3D,10.72,2018-07-15
+Mr. Jesse Lindsey,38925512,M,2. The Godfather,Normal,6.3,2017-11-28
+Jeffery Griffin,18664530,M,9. The Dark Knight,Normal,7.32,2017-11-25
+Danielle Moore,35253212,F,7. Star Wars: Episode V - The Empire Strikes Back,Normal,7.02,2020-11-21
+Christopher Lynch,14610441,M,14. 2001: A Space Odyssey,3D,10.61,2019-01-01
+Ashley Nielsen,92393732,F,4. 12 Angry Men,3D,11.92,2024-03-16
+Adam Phillips,71189874,M,8. The Lord of the Rings: The Return of the King,3D,13.33,2016-07-01
+Michele Tran,21695976,F,1. The Shawshank Redemption,Normal,6.92,2018-08-01
+Cynthia Thompson,62394341,F,3. Citizen Kane,Normal,7.45,2016-03-28
+Michael Bryan,86025289,M,25. Inception,3D,10.15,2023-01-07
+Katherine Reyes,74042384,F,24. Forrest Gump,Normal,6.85,2021-10-24
+Albert Lowe,31793672,M,12. Fight Club,3D,13.4,2022-02-01
+Jennifer Alexander,89988314,F,16. Star Wars: Episode IV - A New Hope,3D,13.23,2024-05-22
+Theodore Garcia,38129994,M,2. The Godfather,3D,10.93,2017-09-15
+Martin Lang,97244316,M,8. The Lord of the Rings: The Return of the King,3D,12.48,2023-03-14
+Casey Martinez,77292315,F,16. Star Wars: Episode IV - A New Hope,Normal,6.78,2020-06-07
+Robert Aguilar,96111024,M,3. Citizen Kane,Normal,7.15,2024-08-01
+Michael Morgan,17131294,M,18. Terminator 2: Judgment Day,3D,11.45,2019-05-18
+Joyce Moon,42051830,F,1. The Shawshank Redemption,Normal,6.84,2017-08-27
+Aaron May,39325802,M,4. 12 Angry Men,Normal,7.89,2015-06-24
+Kelly Murphy,82819071,F,5. Schindler's List,3D,12.79,2018-11-15
+Mario White,75945672,M,8. The Lord of the Rings: The Return of the King,3D,10.86,2020-08-29
+Tara Kelly,66997266,F,8. The Lord of the Rings: The Return of the King,Normal,8.21,2024-09-22
+Thomas Key,89916709,M,1. The Shawshank Redemption,Normal,7.95,2018-02-28
+Karen Barnes,81771223,F,25. Inception,Normal,7.5,2021-03-25
+Aaron Kent,98118859,M,20. Raiders of the Lost Ark,Normal,6.56,2015-07-13
+Joanna Johnson,49143531,F,14. 2001: A Space Odyssey,3D,12.71,2015-07-19
+Kenneth Collier,79071088,M,13. Psycho,Normal,6.81,2022-04-29
+Anthony Kennedy,24190747,M,"6. The Good, the Bad and the Ugly",Normal,8.37,2021-01-10
+Elizabeth Bishop,22109066,F,14. 2001: A Space Odyssey,Normal,7.94,2021-09-16
+Angela Nguyen,93118161,F,12. Fight Club,3D,11.83,2023-11-30
+Timothy Ballard,89815350,M,16. Star Wars: Episode IV - A New Hope,3D,11.54,2017-02-08
+Ernest Mcclure,49296558,M,9. The Dark Knight,3D,12.71,2016-08-11
+Ronald Kennedy,39165489,M,21. Casablanca,3D,11.77,2016-03-21
+David Atkins,61512381,M,25. Inception,Normal,8.54,2016-08-24
+Daniel Medina,65646452,M,13. Psycho,3D,13.06,2017-03-05
+Kristina Maddox,35378584,F,22. The Wizard of Oz,3D,11.63,2023-11-27
+Catherine Harris,77648442,F,1. The Shawshank Redemption,Normal,8.5,2024-11-06
+Rachel Nelson,59420511,F,4. 12 Angry Men,3D,13.97,2016-03-21
+Elizabeth Mcknight,51225798,F,4. 12 Angry Men,Normal,6.68,2016-08-02
+Michael Olson,16511361,M,8. The Lord of the Rings: The Return of the King,Normal,7.98,2018-03-23
+Morgan Palmer,54483614,F,2. The Godfather,3D,13.05,2021-09-08
+Shawn Branch,63421997,M,7. Star Wars: Episode V - The Empire Strikes Back,3D,13.0,2020-07-18
+Michael Bernard,14835504,M,8. The Lord of the Rings: The Return of the King,3D,10.22,2015-06-21
+Elizabeth Martinez,76217537,F,19. The Matrix,Normal,8.15,2016-09-24
+Alisha Austin,96751718,F,11. Pulp Fiction,Normal,8.08,2016-06-11
+Nicole Jones,95099321,F,24. Forrest Gump,3D,13.62,2018-12-12
+Jacob Lee,19138280,M,4. 12 Angry Men,Normal,7.08,2016-09-13
+Kirsten Murray,78733756,F,1. The Shawshank Redemption,Normal,7.67,2017-12-28
+Michelle Roberts,83140982,F,16. Star Wars: Episode IV - A New Hope,Normal,6.25,2023-11-05
+Cassidy Mcgrath,17471279,F,16. Star Wars: Episode IV - A New Hope,Normal,7.02,2018-05-27
+Curtis Clay,60272997,M,5. Schindler's List,Normal,8.52,2022-10-01
+Aaron Carrillo,42629551,M,14. 2001: A Space Odyssey,Normal,8.57,2019-10-14
+Erin Perez,80521122,F,4. 12 Angry Men,3D,10.5,2015-08-09
+Lisa Salazar,33477674,F,23. Seven Samurai,Normal,8.5,2025-01-24
+Michael Martinez,70149926,M,17. The Lord of the Rings: The Fellowship of the Ring,3D,11.77,2018-07-15
+Susan Ibarra,27250027,F,23. Seven Samurai,Normal,6.73,2022-02-02
+Brandon Moses,76706418,M,12. Fight Club,Normal,7.43,2017-10-18
+Kathleen Collins,74953630,F,18. Terminator 2: Judgment Day,3D,13.69,2015-07-04
+Madison Martin,79109611,F,7. Star Wars: Episode V - The Empire Strikes Back,3D,10.6,2021-06-24
+Michael Rodriguez,17327914,M,"6. The Good, the Bad and the Ugly",Normal,7.43,2015-11-29
+George Holland,78187310,M,18. Terminator 2: Judgment Day,3D,12.27,2020-07-12
+Shane Stewart,51016019,M,12. Fight Club,3D,10.38,2024-10-26
+Kevin Edwards DDS,42591249,M,1. The Shawshank Redemption,Normal,6.5,2023-06-15
+Maria Brown,60695806,F,5. Schindler's List,3D,10.39,2021-08-05
+Alicia Reese,30194251,F,13. Psycho,3D,11.76,2017-04-15
+Roger Jennings,97559665,M,3. Citizen Kane,3D,12.57,2018-10-08
