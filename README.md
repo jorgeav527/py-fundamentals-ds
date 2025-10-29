@@ -47,14 +47,16 @@ Built with modern data tools and technologies:
 
 ## 📂 Repository Structure
 
+```
 py-fundamentals-ds/
-├── Alumno/
-├── capitulo-1/
-├── capitulo-2/
-├── capitulo-3/
-├── capitulo-4/
-├── IMPORTANTE/
-└── README.md
+├── Alumno/     # Main material (not updated for Cibertec)
+├── capitulo-1/ # Fundamentals of Python
+├── capitulo-2/ # Advanced concepts of Python
+├── capitulo-3/ # SQL, NoSQL, and ETL
+├── capitulo-4/ # Pandas, Data Science, and Intro to Machine Learning
+├── IMPORTANTE/ # Extra material from Cibertec
+└── README.md   # Project documentation
+```
 
 ## ⚙️ Getting Started  
 
