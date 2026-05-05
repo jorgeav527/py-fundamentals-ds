@@ -1,0 +1,21 @@
+[project]
+name = "py-fundamentals-ds"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faker>=40.15.0",
+    "jupyter-black>=0.4.0",
+    "jupyter-docx-bundler>=0.4.0",
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "mongoengine>=0.29.3",
+    "openpyxl>=3.1.5",
+    "pillow>=12.2.0",
+    "pymongo>=4.17.0",
+    "requests-html>=0.10.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "sqlmodel>=0.0.38",
+]
